@@ -1,0 +1,604 @@
+imdb,date_aired,format,engagement
+8.1,1969-09-13,TV Series,556.0
+8.1,1969-09-20,TV Series,479.0
+8.0,1969-09-27,TV Series,455.0
+7.8,1969-10-04,TV Series,426.0
+7.5,1969-10-11,TV Series,391.0
+8.4,1969-10-18,TV Series,384.0
+7.6,1969-10-25,TV Series,358.0
+8.2,1969-11-01,TV Series,358.0
+8.1,1969-11-08,TV Series,371.0
+8.0,1969-11-15,TV Series,346.0
+8.5,1969-11-22,TV Series,379.0
+8.2,1969-11-29,TV Series,358.0
+8.4,1969-12-06,TV Series,356.0
+8.1,1969-12-13,TV Series,331.0
+8.4,1969-12-20,TV Series,372.0
+8.7,1970-01-10,TV Series,403.0
+8.0,1970-01-17,TV Series,328.0
+8.3,1970-09-12,TV Series,322.0
+7.8,1970-09-19,TV Series,312.0
+7.7,1970-09-26,TV Series,301.0
+8.5,1970-10-03,TV Series,347.0
+8.4,1970-10-10,TV Series,303.0
+7.9,1970-10-17,TV Series,292.0
+8.2,1970-10-24,TV Series,292.0
+7.9,1970-10-31,TV Series,282.0
+6.9,1972-09-09,TV Series,138.0
+7.8,1972-09-16,TV Series,232.0
+7.9,1972-09-23,TV Series,119.0
+7.9,1972-09-30,TV Series,116.0
+7.9,1972-10-07,TV Series,111.0
+7.7,1972-10-14,TV Series,88.0
+7.8,1972-10-21,TV Series,90.0
+8.5,1972-10-28,TV Series,109.0
+7.7,1972-11-04,TV Series,96.0
+8.3,1972-11-11,TV Series,118.0
+7.6,1972-11-18,TV Series,86.0
+7.4,1972-11-25,TV Series,90.0
+7.8,1972-12-02,TV Series,86.0
+7.6,1972-12-09,TV Series,81.0
+7.2,1972-12-16,TV Series,183.0
+7.9,1972-12-23,TV Series,114.0
+7.4,1973-09-08,TV Series,103.0
+7.9,1973-09-15,TV Series,82.0
+7.5,1973-09-22,TV Series,82.0
+7.4,1973-09-29,TV Series,73.0
+7.6,1973-10-06,TV Series,85.0
+7.3,1973-10-13,TV Series,91.0
+7.8,1973-10-20,TV Series,104.0
+7.6,1973-10-27,TV Series,92.0
+7.6,1976-09-11,TV Series,112.0
+7.2,1976-09-11,Crossover,12.0
+7.4,1976-09-18,TV Series,97.0
+6.9,1976-09-18,Crossover,11.0
+7.5,1976-09-25,TV Series,95.0
+8.0,1976-10-02,TV Series,101.0
+8.0,1976-10-09,TV Series,127.0
+7.6,1976-10-16,TV Series,93.0
+8.2,1976-10-23,TV Series,99.0
+7.7,1976-10-30,TV Series,91.0
+7.0,1976-11-06,TV Series,81.0
+7.4,1976-11-13,TV Series,84.0
+6.3,1976-11-13,Crossover,7.0
+6.8,1976-11-20,TV Series,84.0
+7.2,1976-11-25,TV Series,80.0
+7.3,1976-11-27,TV Series,77.0
+6.8,1976-12-04,TV Series,75.0
+7.7,1976-12-11,TV Series,84.0
+7.5,1976-12-18,TV Series,81.0
+7.4,1977-09-10,TV Series,71.0
+6.9,1977-09-10,TV Series (segmented),25.0
+6.9,1977-09-10,TV Series (segmented),25.0
+8.2,1977-09-17,TV Series,104.0
+6.3,1977-09-17,TV Series (segmented),23.0
+6.3,1977-09-17,TV Series (segmented),23.0
+7.4,1977-09-24,TV Series,76.0
+7.1,1977-09-24,TV Series (segmented),22.0
+7.1,1977-09-24,TV Series (segmented),22.0
+7.9,1977-10-01,TV Series,77.0
+7.2,1977-10-01,TV Series (segmented),21.0
+7.2,1977-10-01,TV Series (segmented),21.0
+7.4,1977-10-08,TV Series,75.0
+6.8,1977-10-08,TV Series (segmented),19.0
+6.8,1977-10-08,TV Series (segmented),19.0
+8.1,1977-10-15,TV Series,78.0
+6.8,1977-10-15,TV Series (segmented),19.0
+6.8,1977-10-15,TV Series (segmented),19.0
+7.7,1977-10-22,TV Series,78.0
+6.6,1977-10-22,TV Series (segmented),18.0
+6.6,1977-10-22,TV Series (segmented),18.0
+7.4,1977-10-29,TV Series,71.0
+6.4,1977-10-29,TV Series (segmented),18.0
+6.4,1977-10-29,TV Series (segmented),18.0
+6.0,1977-11-05,TV Series (segmented),22.0
+6.0,1977-11-05,TV Series (segmented),22.0
+6.7,1977-11-12,TV Series (segmented),23.0
+6.7,1977-11-12,TV Series (segmented),23.0
+6.4,1977-11-19,TV Series (segmented),20.0
+6.4,1977-11-19,TV Series (segmented),20.0
+6.3,1977-11-26,TV Series (segmented),22.0
+6.3,1977-11-26,TV Series (segmented),22.0
+6.9,1977-12-03,TV Series (segmented),18.0
+6.9,1977-12-03,TV Series (segmented),18.0
+6.8,1977-12-10,TV Series (segmented),18.0
+6.8,1977-12-10,TV Series (segmented),18.0
+6.9,1977-12-17,TV Series (segmented),18.0
+6.9,1977-12-17,TV Series (segmented),18.0
+7.0,1977-12-24,TV Series (segmented),21.0
+7.0,1977-12-24,TV Series (segmented),21.0
+7.5,1978-09-09,TV Series,96.0
+6.7,1978-09-09,TV Series (segmented),13.0
+6.7,1978-09-09,TV Series (segmented),13.0
+7.3,1978-09-16,TV Series,101.0
+6.9,1978-09-16,TV Series (segmented),15.0
+6.9,1978-09-16,TV Series (segmented),15.0
+7.1,1978-09-23,TV Series,98.0
+6.6,1978-09-23,TV Series (segmented),15.0
+6.6,1978-09-23,TV Series (segmented),15.0
+8.0,1978-09-30,TV Series,107.0
+6.6,1978-09-30,TV Series (segmented),16.0
+6.6,1978-09-30,TV Series (segmented),16.0
+7.6,1978-10-07,TV Series,92.0
+6.5,1978-10-07,TV Series (segmented),15.0
+6.5,1978-10-07,TV Series (segmented),15.0
+7.7,1978-10-14,TV Series,90.0
+6.4,1978-10-14,TV Series (segmented),14.0
+6.4,1978-10-14,TV Series (segmented),14.0
+7.7,1978-10-21,TV Series,80.0
+6.2,1978-10-21,TV Series (segmented),13.0
+6.2,1978-10-21,TV Series (segmented),13.0
+7.2,1978-10-28,TV Series,91.0
+6.8,1978-10-28,TV Series (segmented),12.0
+6.8,1978-10-28,TV Series (segmented),12.0
+8.0,1978-11-04,TV Series,88.0
+7.5,1978-11-11,TV Series,80.0
+7.5,1978-11-18,TV Series,84.0
+7.5,1978-11-25,TV Series,85.0
+7.5,1978-12-02,TV Series,92.0
+7.2,1978-12-09,TV Series,83.0
+6.8,1978-12-16,TV Series,84.0
+7.1,1978-12-23,TV Series,84.0
+7.6,1979-09-22,TV Series,67.0
+7.6,1979-09-29,TV Series,59.0
+7.6,1979-10-06,TV Series,54.0
+7.4,1979-10-13,TV Series,55.0
+7.5,1979-10-20,TV Series,51.0
+7.4,1979-10-27,TV Series,51.0
+7.5,1979-11-03,TV Series,51.0
+7.3,1979-11-10,TV Series,53.0
+7.6,1979-11-17,TV Series,47.0
+8.0,1979-11-24,TV Series,52.0
+7.2,1979-12-01,TV Series,48.0
+7.7,1979-12-08,TV Series,52.0
+6.1,1979-12-14,Movie,1051.0
+7.5,1979-12-15,TV Series,48.0
+7.3,1979-12-22,TV Series,47.0
+7.5,1979-12-29,TV Series,46.0
+6.5,1980-01-05,TV Series,47.0
+7.1,1980-11-08,TV Series (segmented),35.0
+7.1,1980-11-08,TV Series (segmented),35.0
+7.1,1980-11-08,TV Series (segmented),35.0
+7.2,1980-11-15,TV Series (segmented),36.0
+7.2,1980-11-15,TV Series (segmented),37.0
+6.8,1980-11-15,TV Series (segmented),32.0
+7.2,1980-11-22,TV Series (segmented),36.0
+7.2,1980-11-22,TV Series (segmented),37.0
+7.2,1980-11-22,TV Series (segmented),36.0
+7.2,1980-11-29,TV Series (segmented),37.0
+7.1,1980-11-29,TV Series (segmented),31.0
+6.8,1980-11-29,TV Series (segmented),32.0
+6.8,1980-12-06,TV Series (segmented),32.0
+6.7,1980-12-06,TV Series (segmented),36.0
+7.1,1980-12-06,TV Series (segmented),31.0
+7.1,1980-12-13,TV Series (segmented),31.0
+6.7,1980-12-13,TV Series (segmented),36.0
+7.0,1980-12-13,TV Series (segmented),29.0
+6.7,1980-12-20,TV Series (segmented),36.0
+7.0,1980-12-20,TV Series (segmented),29.0
+7.0,1980-12-20,TV Series (segmented),29.0
+7.0,1980-12-27,TV Series (segmented),32.0
+6.7,1980-12-27,TV Series (segmented),29.0
+7.0,1980-12-27,TV Series (segmented),32.0
+6.7,1981-01-03,TV Series (segmented),29.0
+6.7,1981-01-03,TV Series (segmented),29.0
+7.0,1981-01-03,TV Series (segmented),32.0
+7.0,1981-01-10,TV Series (segmented),32.0
+7.0,1981-01-10,TV Series (segmented),32.0
+7.0,1981-01-10,TV Series (segmented),32.0
+7.1,1981-01-17,TV Series (segmented),31.0
+7.1,1981-01-17,TV Series (segmented),31.0
+7.1,1981-01-17,TV Series (segmented),31.0
+7.2,1981-01-24,TV Series (segmented),31.0
+7.1,1981-01-24,TV Series (segmented),31.0
+7.1,1981-01-24,TV Series (segmented),31.0
+7.2,1981-01-31,TV Series (segmented),31.0
+7.1,1981-01-31,TV Series (segmented),31.0
+7.2,1981-01-31,TV Series (segmented),31.0
+7.4,1981-09-19,TV Series (segmented),32.0
+7.4,1981-09-19,TV Series (segmented),32.0
+7.4,1981-09-19,TV Series (segmented),32.0
+7.2,1981-09-26,TV Series (segmented),30.0
+7.2,1981-09-26,TV Series (segmented),30.0
+7.1,1981-09-26,TV Series (segmented),27.0
+7.1,1981-10-03,TV Series (segmented),29.0
+7.1,1981-10-03,TV Series (segmented),29.0
+7.2,1981-10-03,TV Series (segmented),30.0
+7.1,1981-10-10,TV Series (segmented),29.0
+7.1,1981-10-10,TV Series (segmented),27.0
+7.1,1981-10-10,TV Series (segmented),27.0
+7.1,1981-10-17,TV Series (segmented),29.0
+7.1,1981-10-17,TV Series (segmented),29.0
+7.4,1981-10-17,TV Series (segmented),27.0
+7.1,1981-10-24,TV Series (segmented),27.0
+7.1,1981-10-24,TV Series (segmented),29.0
+7.1,1981-10-24,TV Series (segmented),32.0
+7.4,1981-10-31,TV Series (segmented),27.0
+7.1,1981-10-31,TV Series (segmented),32.0
+7.1,1981-10-31,TV Series (segmented),32.0
+7.4,1982-09-25,TV Series (segmented),25.0
+7.4,1982-09-25,TV Series (segmented),23.0
+7.1,1982-10-02,TV Series (segmented),24.0
+7.3,1982-10-02,TV Series (segmented),25.0
+6.9,1982-10-09,TV Series (segmented),26.0
+7.4,1982-10-09,TV Series (segmented),25.0
+7.3,1982-10-16,TV Series (segmented),27.0
+6.9,1982-10-16,TV Series (segmented),26.0
+7.3,1982-10-23,TV Series (segmented),27.0
+7.3,1982-10-23,TV Series (segmented),25.0
+7.4,1982-10-30,TV Series (segmented),24.0
+7.1,1982-10-30,TV Series (segmented),23.0
+7.4,1982-11-06,TV Series (segmented),23.0
+7.3,1982-11-06,TV Series (segmented),23.0
+7.1,1982-11-13,TV Series (segmented),25.0
+7.3,1982-11-13,TV Series (segmented),23.0
+7.0,1982-11-20,TV Series (segmented),23.0
+7.1,1982-11-20,TV Series (segmented),25.0
+7.2,1982-11-27,TV Series (segmented),23.0
+7.2,1982-11-27,TV Series (segmented),23.0
+7.0,1982-12-04,TV Series (segmented),23.0
+7.1,1982-12-04,TV Series (segmented),23.0
+7.1,1982-12-11,TV Series (segmented),24.0
+7.4,1982-12-11,TV Series (segmented),24.0
+6.8,1982-12-19,TV Series (segmented),26.0
+6.8,1982-12-19,TV Series (segmented),26.0
+7.4,1983-09-10,TV Series (segmented),27.0
+7.4,1983-09-10,TV Series (segmented),27.0
+7.5,1983-09-10,TV Series (segmented),21.0
+7.5,1983-09-10,TV Series (segmented),21.0
+7.5,1983-09-17,TV Series (segmented),17.0
+7.5,1983-09-17,TV Series (segmented),17.0
+7.7,1983-09-17,TV Series (segmented),20.0
+7.7,1983-09-17,TV Series (segmented),20.0
+7.2,1983-09-24,TV Series (segmented),18.0
+7.2,1983-09-24,TV Series (segmented),18.0
+7.5,1983-10-01,TV Series (segmented),15.0
+7.5,1983-10-01,TV Series (segmented),15.0
+7.3,1983-10-08,TV Series (segmented),15.0
+7.3,1983-10-08,TV Series (segmented),15.0
+7.1,1983-10-15,TV Series (segmented),17.0
+7.1,1983-10-15,TV Series (segmented),17.0
+7.4,1983-10-29,TV Series (segmented),18.0
+7.4,1983-10-29,TV Series (segmented),18.0
+7.2,1983-11-05,TV Series (segmented),20.0
+7.2,1983-11-05,TV Series (segmented),20.0
+6.5,1983-11-26,TV Series (segmented),21.0
+6.5,1983-11-26,TV Series (segmented),21.0
+6.5,1983-12-03,TV Series,19.0
+6.5,1983-12-10,TV Series,23.0
+7.2,1984-09-08,TV Series,45.0
+7.2,1984-09-15,TV Series (segmented),29.0
+7.2,1984-09-15,TV Series (segmented),29.0
+7.5,1984-09-22,TV Series (segmented),29.0
+7.5,1984-09-22,TV Series (segmented),29.0
+7.0,1984-09-29,TV Series (segmented),26.0
+7.0,1984-09-29,TV Series (segmented),26.0
+7.1,1984-10-06,TV Series (segmented),24.0
+7.1,1984-10-06,TV Series (segmented),24.0
+6.9,1984-10-13,TV Series,36.0
+7.2,1984-10-20,TV Series (segmented),23.0
+7.2,1984-10-20,TV Series (segmented),23.0
+8.0,1984-10-27,TV Series,47.0
+7.5,1984-11-03,TV Series,26.0
+7.3,1984-11-10,TV Series (segmented),27.0
+7.3,1984-11-10,TV Series (segmented),27.0
+7.6,1984-11-17,TV Series,27.0
+7.0,1984-11-24,TV Series (segmented),24.0
+7.0,1984-11-24,TV Series (segmented),24.0
+7.9,1984-12-01,TV Series,60.0
+7.7,1985-09-07,TV Series,104.0
+7.6,1985-09-14,TV Series,91.0
+7.3,1985-09-21,TV Series,84.0
+7.2,1985-09-28,TV Series,79.0
+7.9,1985-10-05,TV Series,84.0
+7.5,1985-10-12,TV Series,74.0
+7.6,1985-10-19,TV Series,76.0
+7.1,1985-10-26,TV Series,78.0
+7.4,1985-11-02,TV Series,77.0
+7.7,1985-11-09,TV Series,76.0
+7.4,1985-11-16,TV Series,71.0
+7.4,1985-11-23,TV Series,77.0
+7.4,1985-12-07,TV Series,77.0
+7.1,1987-10-18,Movie,3727.0
+7.3,1988-09-10,TV Series,68.0
+7.5,1988-09-17,TV Series,58.0
+8.0,1988-09-24,TV Series,55.0
+7.5,1988-10-01,TV Series,61.0
+7.4,1988-10-08,TV Series,44.0
+7.6,1988-10-15,TV Series,50.0
+6.9,1988-10-16,Movie,4487.0
+7.8,1988-10-22,TV Series,44.0
+7.7,1988-10-29,TV Series,47.0
+7.0,1988-11-05,TV Series,47.0
+7.5,1988-11-12,TV Series,53.0
+6.9,1988-11-13,Movie,3924.0
+6.9,1988-11-19,TV Series,46.0
+7.2,1988-11-26,TV Series,44.0
+7.5,1988-12-03,TV Series,45.0
+7.7,1989-09-09,TV Series,43.0
+7.7,1989-09-16,TV Series,43.0
+7.8,1989-09-23,TV Series,43.0
+7.5,1989-09-30,TV Series,38.0
+7.6,1989-10-07,TV Series,42.0
+7.7,1989-10-14,TV Series,40.0
+7.2,1989-10-21,TV Series,39.0
+7.8,1989-10-28,TV Series,38.0
+7.1,1990-09-08,TV Series (segmented),37.0
+7.1,1990-09-08,TV Series (segmented),37.0
+6.9,1990-10-06,TV Series,35.0
+7.2,1990-11-03,TV Series,38.0
+7.2,1991-08-03,TV Series,40.0
+6.6,1991-08-10,TV Series (segmented),37.0
+6.6,1991-08-10,TV Series (segmented),37.0
+6.6,1991-08-10,TV Series (segmented),37.0
+7.2,1991-08-17,TV Series,32.0
+5.8,1994-09-03,Movie,1526.0
+8.4,1997-07-25,Crossover,148.0
+7.8,1998-09-22,Movie,12620.0
+7.3,1999-10-05,Movie,6527.0
+7.4,1999-10-31,TV Series,390.0
+6.9,2000-10-03,Movie,5625.0
+7.0,2001-10-09,Movie,6632.0
+7.2,2001-10-31,TV Series,256.0
+5.1,2002-06-14,Movie (Theatrical),100951.0
+8.1,2002-07-07,Crossover,133.0
+7.5,2002-09-14,TV Series,176.0
+7.4,2002-09-21,TV Series,150.0
+7.6,2002-09-28,TV Series,151.0
+7.7,2002-10-05,TV Series,142.0
+7.6,2002-10-26,TV Series,144.0
+7.5,2002-11-02,TV Series,125.0
+7.7,2002-11-09,TV Series,133.0
+7.1,2002-11-23,TV Series,130.0
+7.1,2002-11-30,TV Series,122.0
+7.5,2002-12-13,TV Series,137.0
+7.7,2003-02-01,TV Series,122.0
+7.5,2003-02-15,TV Series,115.0
+7.1,2003-02-22,TV Series,110.0
+6.6,2003-03-04,Movie,4180.0
+7.3,2003-03-22,TV Series,110.0
+7.2,2003-09-13,TV Series,112.0
+7.6,2003-09-20,TV Series,102.0
+7.4,2003-09-27,TV Series,104.0
+6.5,2003-09-30,Movie,3462.0
+7.5,2003-10-04,TV Series,101.0
+7.4,2003-10-18,TV Series,105.0
+7.6,2003-10-25,TV Series,129.0
+7.2,2003-10-25,TV Series,97.0
+7.3,2004-03-20,TV Series,103.0
+7.5,2004-03-22,TV Series,113.0
+7.5,2004-03-23,TV Series,109.0
+7.5,2004-03-24,TV Series,94.0
+7.4,2004-03-25,TV Series,99.0
+7.2,2004-03-26,TV Series,96.0
+5.1,2004-03-26,Movie (Theatrical),50847.0
+7.4,2004-03-27,TV Series,91.0
+6.7,2004-06-24,Movie,4108.0
+8.0,2005-01-29,TV Series,128.0
+7.2,2005-02-05,TV Series,102.0
+6.4,2005-02-08,Movie,3696.0
+7.5,2005-02-11,TV Series,97.0
+7.4,2005-02-12,TV Series,90.0
+7.5,2005-02-19,TV Series,89.0
+7.3,2005-02-25,TV Series,101.0
+7.0,2005-03-03,TV Series,96.0
+7.6,2005-03-12,TV Series,105.0
+7.5,2005-03-19,TV Series,100.0
+7.4,2005-03-26,TV Series,88.0
+7.3,2005-04-02,TV Series,87.0
+7.4,2005-04-09,TV Series,84.0
+7.5,2005-04-19,TV Series,92.0
+6.7,2005-11-24,Movie,2974.0
+7.4,2006-07-21,TV Series,91.0
+6.7,2006-09-19,Movie,2454.0
+6.1,2006-09-23,TV Series,29.0
+5.0,2006-09-30,TV Series,21.0
+6.0,2006-10-07,TV Series,22.0
+5.9,2006-11-04,TV Series,19.0
+5.9,2006-11-11,TV Series,17.0
+5.5,2006-11-18,TV Series,17.0
+5.8,2007-02-02,TV Series,18.0
+6.9,2007-02-10,TV Series,17.0
+5.1,2007-02-17,TV Series,16.0
+6.1,2007-02-24,TV Series,20.0
+6.1,2007-03-03,TV Series,14.0
+5.9,2007-04-28,TV Series,17.0
+5.1,2007-05-05,TV Series,14.0
+6.7,2007-08-31,Movie,2511.0
+5.3,2007-09-22,TV Series,15.0
+5.2,2007-09-29,TV Series,16.0
+5.9,2007-10-06,TV Series,18.0
+5.5,2007-10-13,TV Series,14.0
+5.4,2007-11-03,TV Series,13.0
+5.6,2007-11-10,TV Series,11.0
+5.5,2007-12-01,TV Series,11.0
+5.4,2008-01-26,TV Series,11.0
+4.8,2008-02-02,TV Series,9.0
+4.6,2008-02-16,TV Series,9.0
+6.2,2008-02-23,TV Series,13.0
+5.1,2008-03-08,TV Series,9.0
+5.8,2008-03-15,TV Series,9.0
+6.4,2008-10-08,Movie,2285.0
+6.5,2009-04-07,Movie,2182.0
+5.3,2009-09-13,Movie,5805.0
+7.1,2010-02-16,Movie,2009.0
+7.9,2010-04-05,TV Series,337.0
+7.8,2010-07-19,TV Series,304.0
+7.7,2010-07-26,TV Series,267.0
+7.7,2010-08-02,TV Series,255.0
+8.0,2010-08-09,TV Series,254.0
+8.5,2010-08-16,TV Series,263.0
+8.2,2010-08-23,TV Series,256.0
+7.8,2010-08-30,TV Series,229.0
+7.6,2010-09-07,TV Series,221.0
+7.3,2010-09-14,Movie,2566.0
+8.2,2010-10-04,TV Series,235.0
+8.1,2010-10-11,TV Series,225.0
+8.4,2010-10-18,TV Series,246.0
+8.0,2010-10-25,TV Series,224.0
+4.9,2011-03-01,Movie,4081.0
+8.2,2011-05-03,TV Series,254.0
+7.7,2011-05-10,TV Series,221.0
+8.2,2011-05-17,TV Series,228.0
+8.8,2011-05-24,TV Series,250.0
+8.2,2011-05-31,TV Series,211.0
+8.5,2011-06-07,TV Series,227.0
+8.1,2011-06-14,TV Series,203.0
+8.2,2011-06-21,TV Series,212.0
+8.1,2011-06-28,TV Series,196.0
+8.6,2011-07-05,TV Series,211.0
+8.2,2011-07-12,TV Series,194.0
+8.8,2011-07-19,TV Series,212.0
+9.2,2011-07-26,TV Series,272.0
+6.8,2011-09-06,Movie,1899.0
+6.5,2012-03-13,Movie,1573.0
+6.9,2012-07-17,TV Series,195.0
+8.5,2012-07-30,TV Series,226.0
+7.9,2012-07-31,TV Series,187.0
+8.4,2012-08-01,TV Series,197.0
+8.2,2012-08-02,TV Series,192.0
+8.4,2012-08-03,TV Series,188.0
+7.7,2012-08-06,TV Series,177.0
+8.2,2012-08-07,TV Series,172.0
+8.3,2012-08-08,TV Series,183.0
+8.3,2012-08-09,TV Series,176.0
+9.1,2012-08-10,TV Series,202.0
+8.7,2012-08-13,TV Series,187.0
+8.2,2012-08-14,TV Series,169.0
+8.9,2012-08-15,TV Series,207.0
+7.6,2012-08-16,TV Series,174.0
+8.6,2012-08-17,TV Series,180.0
+6.9,2012-10-09,Movie,1442.0
+7.0,2012-10-16,TV Series,392.0
+6.8,2013-02-26,Movie,1485.0
+8.0,2013-03-25,TV Series,172.0
+8.3,2013-03-25,TV Series,167.0
+8.0,2013-03-26,TV Series,180.0
+7.8,2013-03-27,TV Series,166.0
+8.3,2013-03-28,TV Series,171.0
+8.9,2013-03-29,TV Series,176.0
+8.9,2013-04-02,TV Series,187.0
+8.4,2013-04-03,TV Series,165.0
+8.7,2013-04-04,TV Series,169.0
+9.0,2013-04-05,TV Series,184.0
+9.3,2013-04-05,TV Series,260.0
+5.1,2013-07-23,Movie,294.0
+7.1,2013-08-20,Movie,1380.0
+7.3,2013-09-10,TV Series,403.0
+6.5,2013-09-24,TV Series,242.0
+6.3,2014-03-25,Movie,2825.0
+6.6,2014-05-13,TV Series,216.0
+6.7,2014-08-19,Movie,1541.0
+6.5,2015-02-17,Movie,1269.0
+7.1,2015-05-05,TV Series,188.0
+6.5,2015-07-21,Movie,1891.0
+7.9,2015-10-05,TV Series,122.0
+7.2,2015-10-06,TV Series,102.0
+7.4,2015-10-07,TV Series,101.0
+7.3,2015-10-08,TV Series,85.0
+7.3,2015-10-09,TV Series,78.0
+7.6,2015-10-12,TV Series,80.0
+7.5,2015-10-15,TV Series,84.0
+8.2,2015-10-19,TV Series,88.0
+7.4,2015-10-20,TV Series,72.0
+7.5,2015-10-21,TV Series,75.0
+7.5,2015-10-22,TV Series,72.0
+7.4,2015-10-23,TV Series,71.0
+7.5,2015-10-28,TV Series,81.0
+6.6,2015-11-25,TV Series,288.0
+7.4,2015-12-05,TV Series,75.0
+7.7,2015-12-10,TV Series,72.0
+7.8,2016-02-13,TV Series,66.0
+7.9,2016-02-20,TV Series,67.0
+8.2,2016-02-27,TV Series,67.0
+7.5,2016-03-05,TV Series,63.0
+5.9,2016-03-10,Movie,1144.0
+7.4,2016-03-12,TV Series,58.0
+7.4,2016-03-23,TV Series,54.0
+6.2,2016-08-09,Movie,1179.0
+6.8,2017-02-14,Movie,1120.0
+7.2,2017-06-20,TV Series,58.0
+7.6,2017-06-20,TV Series,52.0
+7.2,2017-06-20,TV Series,50.0
+7.3,2017-06-20,TV Series,48.0
+7.7,2017-06-20,TV Series,50.0
+5.6,2017-07-25,Movie,565.0
+8.2,2017-11-14,TV Series,53.0
+7.5,2017-11-15,TV Series,40.0
+7.4,2017-11-15,TV Series,40.0
+7.6,2017-12-21,TV Series,42.0
+7.1,2017-11-17,TV Series,38.0
+7.5,2017-11-18,TV Series,42.0
+7.4,2017-09-28,TV Series,43.0
+7.5,2017-11-19,TV Series,39.0
+6.6,2017-11-19,TV Series,40.0
+7.7,2017-11-30,TV Series,47.0
+8.0,2017-11-20,TV Series,44.0
+7.9,2017-11-21,TV Series,50.0
+7.4,2017-11-22,TV Series,38.0
+7.2,2017-11-22,TV Series,35.0
+6.7,2017-11-23,TV Series,35.0
+6.6,2018-01-09,Movie,1698.0
+7.1,2018-03-08,TV Series,41.0
+7.2,2018-03-09,TV Series,31.0
+7.4,2018-03-10,TV Series,36.0
+7.4,2018-03-11,TV Series,38.0
+7.3,2018-03-12,TV Series,39.0
+6.9,2018-03-13,TV Series,37.0
+6.7,2018-03-14,TV Series,33.0
+6.9,2018-03-15,TV Series,33.0
+7.8,2018-03-16,TV Series,37.0
+7.9,2018-03-17,TV Series,36.0
+6.8,2018-03-18,TV Series,31.0
+6.8,2018-03-18,TV Series,31.0
+9.6,2018-03-29,Crossover,6929.0
+4.2,2018-05-22,Movie,1557.0
+7.3,2018-09-11,Movie,825.0
+8.1,2018-10-01,Crossover,26.0
+6.5,2019-02-05,Movie,1182.0
+7.0,2019-06-27,TV Series,126.0
+7.9,2019-07-02,TV Series,93.0
+7.9,2019-07-11,TV Series,79.0
+8.1,2019-07-18,TV Series,78.0
+5.7,2019-07-21,Movie,1418.0
+7.3,2019-07-25,TV Series,84.0
+8.1,2019-08-01,TV Series,74.0
+8.3,2019-08-08,TV Series,70.0
+6.5,2019-08-15,TV Series,74.0
+7.5,2019-08-22,TV Series,52.0
+7.5,2019-08-29,TV Series,61.0
+7.4,2019-09-05,TV Series,59.0
+7.4,2019-09-12,TV Series,47.0
+8.7,2019-09-19,TV Series,84.0
+6.4,2019-10-04,Crossover,38.0
+5.7,2020-05-15,Movie (Theatrical),20226.0
+8.1,2020-07-02,TV Series,38.0
+8.8,2020-07-02,TV Series,35.0
+7.9,2020-07-02,TV Series,36.0
+8.1,2020-07-02,TV Series,25.0
+7.8,2020-07-02,TV Series,27.0
+7.7,2020-07-02,TV Series,23.0
+8.2,2020-07-02,TV Series,28.0
+7.6,2020-07-02,TV Series,22.0
+8.6,2020-07-02,TV Series,19.0
+7.9,2020-07-02,TV Series,21.0
+8.4,2020-07-02,TV Series,25.0
+7.6,2020-07-02,TV Series,27.0
+8.2,2020-07-02,TV Series,24.0
+,2020-10-01,TV Series,
+,2020-10-01,TV Series,
+,2020-10-01,TV Series,
+,2020-10-01,TV Series,
+,2020-10-01,TV Series,
+,2020-10-01,TV Series,
+,2020-10-01,TV Series,
+,2020-10-01,TV Series,
+,2020-10-01,TV Series,
+,2020-10-01,TV Series,
+,2020-10-01,TV Series,
+,2020-10-01,TV Series,
+,2020-10-01,TV Series,
+6.3,2020-10-06,Movie,978.0
+6.2,2020-02-23,Movie,422.0
+,2021-02-25,TV Series,
+,2020-11-13,TV Series,
