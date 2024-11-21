@@ -1,0 +1,309 @@
+,imdb,engagement,monster_gender,motive,zoinks,jinkies,monster_name,culprit_gender
+3,7.8,426.0,Male,Natural Resource,2.0,0.0,Miner 49'er,Male
+4,7.5,391.0,Female,Competition,0.0,0.0,Indian Witch Doctor,Male
+5,8.4,384.0,Male,Extortion,2.0,0.0,Ghost of Elias Kingston,Male
+6,7.6,358.0,Male,Competition,1.0,0.0,Ape Man,Male
+7,8.2,358.0,Male,Safety,0.0,0.0,Charlie the Robot,Female
+8,8.1,371.0,Male,Counterfeit,0.0,0.0,Puppet Master,Male
+9,8.0,346.0,Male,Competition,0.0,0.0,Ghost Clown,Male
+10,8.5,379.0,"Male,Male,Male",Treasure,0.0,0.0,"Werewolf,Dracula,Frankenstein's Monster",Male
+11,8.2,358.0,Male,Theft,6.0,0.0,Mummy of Ankha,Male
+12,8.4,356.0,"Male,Female",Theft,3.0,0.0,"Zombie,Witch","Male,Male"
+13,8.1,331.0,Male,Theft,5.0,0.0,Ghost of Redbeard,Male
+14,8.4,372.0,Male,Competition,8.0,0.0,Spooky Space Kook,Male
+15,8.7,403.0,"Male,Male",Inheritance,3.0,0.0,"Green Ghost,Green Ghost","Male,Male"
+16,8.0,328.0,Male,Theft,4.0,0.0,Snow Ghost,Male
+17,8.3,322.0,Male,Theft,3.0,0.0,Ghost of Mr. Hyde,Male
+18,7.8,312.0,"Male,Male,Male",Smuggling,3.0,0.0,"Ghost of Zen Tuo,Scare Pair,Scare Pair",Male
+19,7.7,301.0,Male,Theft,7.0,0.0,Caveman,Male
+20,8.5,347.0,Male,Theft,7.0,0.0,Creeper,Male
+21,8.4,303.0,Male,Treasure,0.0,0.0,Headless Specter,Male
+22,7.9,292.0,"Female,Male",Theft,6.0,0.0,"Witch Doctor,Mano Tiki Tia",Male
+23,8.2,292.0,Male,Smuggling,0.0,0.0,Werewolf,Male
+24,7.9,282.0,Male,Theft,4.0,0.0,Wax Phantom,Male
+25,6.9,138.0,"Male,Male,Male,Male,None",Natural Resource,1.0,0.0,"Giant Bat,Geronimo,Gunslinger,Robot Gunslinger,Cactus","Male,Male"
+26,7.8,232.0,"Male,Male",Counterfeit,3.0,0.0,"Hooded Man,Skeletons",Female
+27,7.9,119.0,Female,Safety,0.0,0.0,The Vulture,"Male,Female"
+28,7.9,116.0,Male,Treasure,9.0,1.0,Scarecrow,Male
+29,7.9,111.0,"Male,Male",Inheritance,0.0,0.0,"Ghost of Captain Moody,Ghost of Captain Moody","Male,Male"
+30,7.7,88.0,"Male,Male,Male",Theft,1.0,1.0,"The Gargoyle,Phantoms,Phantoms",Male
+31,7.8,90.0,"Male,Male,Male,Male,Male,Male,Male,Male,Male",Preservation,0.0,1.0,"Ghost,Sheik,Mummy,Pirate,Dragon,Wolfman,Grizzly Bear,Indian,Mr. Hyde",Male
+32,8.5,109.0,"Male,Male",Treasure,1.0,0.0,"Shark Men,Shark Men",Male
+33,7.7,96.0,"Male,Female,Male,Male,Male,Male,Male",Theft,0.0,1.0,"Skeleton Man,Lady Ghost,3-Eyed Spook,Giant,Brontosaurus,Headless Horsemen of Sleepy Hollow,Skeleton Stage Driver",Male
+34,8.3,118.0,Male,Theft,0.0,1.0,The Ghost of Bigfoot,Male
+35,7.6,86.0,Male,Competition,1.0,0.0,Ghost of the Red Baron,Male
+36,7.4,90.0,"Male,Male,Male,Male",Natural Resource,0.0,1.0,"Ghost of Redbeard,Ghost of Redbeard's crew,Ghost of Redbeard's crew,Ghost of Redbeard's crew",Male
+37,7.8,86.0,"Male,Male",Competition,1.0,1.0,"Haunted Horseman,Moat Monster","Male,Male"
+38,7.6,81.0,"Male,Male",Theft,1.0,0.0,"Possessed Viking Mannequin,Possessed Davy Crockett Mannequin","Female,Male"
+39,7.2,183.0,"Male,Male",Theft,5.0,1.0,"Dryad,Troll","Male,Male"
+40,7.9,114.0,"Male,Male,Male,Male",Treasure,0.0,0.0,"Sea Serpent,Ghost of Paul Revere,Minuteman Ghost,Redcoat Ghost","Male,Male,Male"
+41,7.4,103.0,"Male,Male,Male",Competition,0.0,0.0,"Hooded Ghosts,Hooded Ghosts,Hooded Ghosts","Male,Male,Male"
+42,7.9,82.0,"Male,Male",Counterfeit,0.0,1.0,"Ghost of Injun Joe,Ghost of Captain Scavenger","Male,Male"
+43,7.5,82.0,Male,Competition,0.0,1.0,Jadal,Male
+44,7.4,73.0,Male,Competition,0.0,0.0,Spirit of Fireball McPhan,"Male,Male"
+45,7.6,85.0,"Male,Male,Male,Male,Male,Male,Male,Male",Competition,0.0,2.0,"Cat Creature,Frankenstein,Creepy Man,Ghost Bird,Unknown Exterminator,Ghostly Man,Invisible Couple,Sea Monster","Male,Male"
+46,7.3,91.0,"Male,Male,Male,Male",Competition,0.0,0.0,"Windmakers,Windmakers,Windmakers,Windmakers",Male
+47,7.8,104.0,"Male,Male",Smuggling,0.0,2.0,"Green Globs,Green Globs","Male,Male"
+48,7.6,92.0,Male,Competition,0.0,1.0,Ghostly Strongman,Male
+49,7.6,112.0,"Male,Female",Theft,6.0,2.0,"Specter of Ebenezer Crabbe,Ghost of Netty Crabbe","Male,Male"
+50,7.2,12.0,"Male,Male",Theft,3.0,0.0,"Mr. Hyde,Snitch",Male
+51,7.4,97.0,"Male,Male",Treasure,8.0,0.0,"Ghost of King Katazuma,Aztec Statue Monster","Male,Female"
+52,7.5,95.0,Male,Competition,1.0,1.0,Ghost of Gator Ghoul,Female
+53,8.0,101.0,Male,Competition,5.0,0.0,10000 Volt Ghost,"Male,Male"
+54,8.0,127.0,Male,Theft,10.0,0.0,Headless Horseman,Male
+55,7.6,93.0,"Male,Male",Theft,3.0,0.0,"Ghost of Merlin,Black Knight",Male
+56,8.2,99.0,Male,Smuggling,13.0,0.0,Ghost of Dr. Coffin,Male
+57,7.7,91.0,"Male,Male",Theft,8.0,0.0,"No-Face Zombie,Gorilla",Male
+58,7.0,81.0,"Male,Female,Male",Extortion,9.0,1.0,"Mamba Wamba,Zombie Lila,Mamba Zombie,","Male,Female"
+59,7.4,84.0,Male,Theft,12.0,1.0,Demon,Male
+60,6.3,7.0,Male,Theft,3.0,2.0,Swamp Rat,Male
+61,6.8,84.0,"Male,Male,Male",Theft,4.0,3.0,"Tamuka the Ghost Bull,Medicine Man Ghost,Talking Bull","Male,Male,Male"
+62,7.2,80.0,Male,Smuggling,7.0,1.0,Demon Shark,Male
+63,7.3,77.0,"Male,Male,Male",Treasure,7.0,0.0,"Ghost of Captain Pescado,Kelp Monster,Octopus Monster",Male
+64,6.8,75.0,Male,Competition,8.0,0.0,Rambling Ghost,Male
+65,7.7,84.0,"Male,Male,Male",Theft,5.0,0.0,"Strawberry Technicolor Phantom,Chocolate Technicolor Phantom,Vanilla Technicolor Phantom",Male
+66,7.5,81.0,"Male,Male,Male",Counterfeit,3.0,1.0,"Ghost of Benedict Arnold,Ghost of William Demont,Ghost of Major Andre","Male,Male"
+67,7.4,71.0,"Male,Male,Male",Natural Resource,8.0,0.0,"Viking Ghost,Viking Ghost,Viking Ghost",Male
+68,8.2,104.0,Male,Competition,11.0,1.0,Gramps the Vamp,Male
+69,7.4,76.0,Male,Theft,10.0,0.0,Pterodactyl Ghost,Male
+70,7.9,77.0,Male,Competition,10.0,2.0,Phantom of Milo Booth,Male
+71,7.4,75.0,Male,Theft,10.0,0.0,Phantom Racer,Male
+72,8.1,78.0,"Female,Male,",Smuggling,9.0,0.0,"Ghost of Witch McCoy,Zombie","Female,Male"
+73,7.7,78.0,Male,Theft,8.0,0.0,Futuristic Monster,"Male,Male"
+74,7.4,71.0,"Male,Male",Smuggling,10.0,2.0,"Creepy Heap from the Deep,Soulless Captain Clements","Male,Male"
+75,7.5,96.0,"Male,Male,Male",Smuggling,10.0,0.0,"Willawa,Owl Men,Owl Men",Male
+76,7.3,101.0,"Male,Male,Male",Theft,9.0,1.0,"Skeleton Men,Skeleton Men,Skeleton Men",Male
+77,7.1,98.0,Male,Natural Resource,8.0,0.0,Snow Beast,Male
+78,8.0,107.0,Female,Inheritance,7.0,0.0,Ghost Witch of Old Salem,"Female,Male"
+79,7.6,92.0,Male,Treasure,9.0,2.0,Tar Monster,Male
+80,7.7,90.0,"Male,Female",Smuggling,7.0,1.0,"Ghost of Finnyan McDuff,Loch Ness Monster",Male
+81,7.7,80.0,Male,Smuggling,9.0,2.0,Old Iron Face,Female
+82,7.2,91.0,Male,Natural Resource,8.0,2.0,Jaguaro,"Male,Male"
+83,8.0,88.0,Male,Theft,0.0,0.0,Cat Creature,Male
+84,7.5,80.0,Male,Natural Resource,0.0,0.0,Mantis,Male
+85,7.5,84.0,Male,Smuggling,0.0,0.0,Phantom,Male
+86,7.5,85.0,Male,Theft,0.0,0.0,Moon Monster,Male
+87,7.5,92.0,Male,Treasure,4.0,2.0,Ghostly Gondolier,Male
+88,7.2,83.0,Male,Treasure,3.0,1.0,Ghost of Juan Carlos,Male
+89,6.8,84.0,"Male,Male",Competition,1.0,4.0,"Anthos,Devil Hound","Male,Male"
+90,7.1,84.0,Male,Smuggling,4.0,3.0,Beast of Bottomless Lake,Female
+91,7.6,67.0,Male,Competition,3.0,1.0,Blue Scarab,Male
+92,7.6,59.0,Male,Theft,2.0,3.0,Night Ghoul,Male
+93,7.6,54.0,Male,Smuggling,10.0,2.0,Alien,Female
+94,7.4,55.0,Male,Competition,4.0,3.0,Neon Phantom,Male
+95,7.5,51.0,"Male,Male",Smuggling,3.0,1.0,"Snake Demon,Clown",Male
+96,7.4,51.0,Male,Natural Resource,8.0,4.0,Sky Skeleton,Male
+97,7.5,51.0,Male,Theft,3.0,0.0,Dragon Beast,Male
+98,7.3,53.0,Male,Treasure,2.0,1.0,Devil Bear,Male
+99,7.6,47.0,Male,Treasure,6.0,3.0,Sea Beast of the Aztecs,Male
+100,8.0,52.0,Female,Theft,3.0,3.0,Lady Vampire of the Bat,Female
+101,7.2,48.0,Male,Theft,5.0,1.0,Star Creature,Male
+102,7.7,52.0,Male,Theft,2.0,2.0,Shadow Creature,Male
+103,7.5,48.0,Male,Treasure,8.0,5.0,Ghost of Jeremiah Pratt,Male
+104,7.3,47.0,Male,Theft,2.0,2.0,Ghost of the Great Haldane,Male
+105,7.5,46.0,Male,Treasure,4.0,5.0,Minotaur,Male
+106,7.2,45.0,Male,Theft,0.0,1.0,Red Skull,Male
+107,6.9,36.0,"Male,Male,Male,Male",Treasure,3.0,1.0,"Zombies,Zombies,Zombies,Zombies","Female,Male,Male,Male"
+108,8.0,47.0,Male,Theft,4.0,1.0,Ghost of Dr. Van Helsing,"Male,Female"
+109,7.3,68.0,Male,Counterfeit,5.0,3.0,Ghost,Male
+110,7.5,58.0,Male,Theft,2.0,3.0,Sludge Monster from the Earth's Croe,Male
+111,8.0,55.0,Male,Theft,1.0,3.0,Dr. Croaker,Male
+112,7.5,61.0,Male,Competition,2.0,4.0,Cheese Monster,Male
+113,7.4,44.0,Male,Competition,3.0,4.0,Ghost of Al Cabone,Female
+114,7.6,50.0,Male,Theft,4.0,3.0,Boogedy Bones,"Female,Male"
+115,7.8,44.0,Male,Natural Resource,1.0,4.0,Ice Demon,Male
+116,7.7,47.0,Male,Theft,2.0,10.0,Samurai Ghost,Male
+117,7.0,47.0,Male,Smuggling,1.0,6.0,Headless Skateboarder,"Female,Male"
+118,7.5,53.0,Male,Competition,2.0,5.0,Boobeard,Male
+119,6.9,46.0,Male,Competition,2.0,11.0,Totem Spirit,Male
+120,7.2,44.0,Male,Theft,1.0,6.0,Ghost of Chef Pierre Goulash,Male
+121,7.5,45.0,Male,Theft,1.0,7.0,Stinkweed,Male
+122,7.7,43.0,Male,Theft,0.0,2.0,Ghost of Buster McMutt Mauler,Male
+123,7.7,43.0,Male,Theft,0.0,3.0,Alien,Female
+124,7.8,43.0,Male,Theft,0.0,6.0,Ghost of Purvis Parker,Male
+125,7.5,38.0,Male,Smuggling,2.0,3.0,Chickenstein,Male
+126,7.6,42.0,Male,Competition,0.0,1.0,Burger Monster,Male
+127,7.7,40.0,Male,Competition,0.0,8.0,Dinkley 2000,Male
+128,7.8,38.0,Male,Competition,3.0,6.0,Ghost of Zombo,Male
+129,7.1,37.0,Male,Assistance,0.0,2.0,Boogey Biker,Male
+130,7.1,37.0,Male,Competition,0.0,6.0,Astronaut Ghost,Male
+131,6.9,35.0,Male,Competition,2.0,4.0,Bigwig,Male
+132,7.2,38.0,Male,Competition,1.0,6.0,Ghost of the Hooded Heifer,Male
+133,7.2,40.0,Male,Treasure,0.0,6.0,Nasty-Doo,Male
+134,6.6,37.0,Female,Theft,2.0,3.0,Ghost of Mrs. Shusham,Female
+135,7.2,32.0,Male,Competition,1.0,6.0,Moving Mollusk,Male
+136,8.4,148.0,Male,Trespassing,5.0,2.0,Ghostly Gardener,Female
+137,7.4,390.0,"Male,Male",Entertainment,2.0,0.0,"Casper County Monster,Casper County Monster",Male
+140,7.2,256.0,"Male,Male,Male",Competition,2.0,1.0,"Zombie,Mummy,Zombie Gary Coleman",Male
+142,8.1,133.0,Male,Competition,0.0,0.0,Green Monster,Male
+143,7.5,176.0,Male,Competition,2.0,1.0,Snow Creature,Male
+144,7.4,150.0,Male,Natural Resource,1.0,1.0,Dinosaur Spirit,"Male,Female"
+145,7.6,151.0,Male,Competition,1.0,0.0,The Alien,Female
+146,7.7,142.0,"Male,Male",Competition,4.0,2.0,"Ghost of the Leland Brothers,Ghost of the Leland Brothers",Male
+147,7.6,144.0,Female,Competition,3.0,1.0,The Mystery Machine,Female
+148,7.5,125.0,Male,Competition,1.0,1.0,Ghost of Rufus Raucaus,Female
+149,7.7,133.0,Male,Competition,0.0,1.0,Roller Ghoster,Female
+150,7.1,130.0,Male,Smuggling,2.0,1.0,Jungle Demons,"Female,Male"
+151,7.1,122.0,Female,Preservation,2.0,2.0,Motoshondu,Male
+152,7.5,137.0,Male,Treasure,2.0,1.0,Headless Snowman,Male
+153,7.7,122.0,"Male,Female,Male",Treasure,2.0,0.0,"Spaceman Swintons,Annabel Action Figure,Other Toys",Male
+154,7.5,115.0,Male,Competition,0.0,1.0,Faceless Phantom,Male
+155,7.1,110.0,Male,Competition,4.0,0.0,Undead,"Male,Male"
+157,7.3,110.0,Male,Competition,1.0,0.0,Baseball Specter,Male
+158,7.2,112.0,"Male,Male",Competition,3.0,2.0,"Ancient One,30 Foot Shaggy",Male
+159,7.6,102.0,"Male,Male,Male,Female,Male,Male,Female,Female",Competition,1.0,1.0,"Mummy of Pharaoh Scamses,Zombies,Zombies,Zombies,Zombies,Zombie Fred,Zombie Daphnie,Zombie Velma","Male,Female"
+160,7.4,104.0,Male,Competition,2.0,2.0,Gusano Grande,Male
+162,7.4,105.0,Male,Competition,0.0,0.0,Baron Fortescu,"Male,Male"
+163,7.6,129.0,"Male,Male",Competition,1.0,2.0,"Scarecrows,Ghost of Hank Banning",Female
+164,7.2,97.0,Male,Competition,1.0,1.0,Cat Creature,"Female,Male,Male"
+165,7.3,103.0,Male,Competition,0.0,1.0,San Franpsycho,Female
+166,7.5,113.0,Male,Competition,1.0,0.0,Invisible Man,"Male,Male,Male,Female"
+167,7.5,109.0,"Male,Male",Competition,2.0,0.0,"Scooby Snack Monster,Scooby Snack Monster","Female,Female"
+168,7.5,94.0,Male,Treasure,2.0,0.0,Glasburgh Dragon,Male
+169,7.4,99.0,Male,Preservation,2.0,1.0,Fish Creature,Male
+170,7.2,96.0,"Male,Male",Preservation,2.0,1.0,"Wakumi,Shaman",Male
+172,7.4,91.0,Male,Treasure,1.0,0.0,Centaur,Female
+174,8.0,128.0,"Male,Male",Competition,2.0,0.0,"Creepy Keeper,Skeleton Crew","Male,Female"
+175,7.2,102.0,"Male,Male,Male",Competition,3.0,0.0,"Sheriff,Cold Steel,Other Robot Cowboys",Male
+177,7.5,97.0,"Male,Female,Female,Male,Male",Competition,1.0,0.0,"Clone Fred,Clone Daphnie,Clone Velma,Clone Shaggy,Clone Scooby",Male
+178,7.4,90.0,Male,Competition,2.0,0.0,Titanic Twist,"Male,Female"
+179,7.5,89.0,Male,Competition,1.0,2.0,Gargoyle,"Female,Male"
+180,7.3,101.0,Male,Competition,0.0,0.0,Demon Farmer,Male
+181,7.0,96.0,Male,Theft,0.0,0.0,Frozen Fiend,Female
+182,7.6,105.0,Male,Competition,1.0,0.0,Menacing Metallic Clown,Male
+183,7.4,88.0,Male,Competition,2.0,1.0,Dragon,Male
+184,7.3,87.0,Male,Competition,0.0,2.0,Skeleton Driver,"Male,Female"
+185,7.4,84.0,Male,Competition,2.0,0.0,Gold Monster,Male
+186,7.5,92.0,"Male,Male",Competition,1.0,1.0,"Coral Creature,Sand Monsters",Male
+193,7.9,337.0,Male,Theft,1.0,1.0,Slime Mutant,Male
+194,7.8,304.0,"Male,Female,Male",Counterfeit,2.0,0.0,"Creeping Creatures,Creeping Creatures,Creeping Creatures","Male,Female,Male"
+195,7.7,267.0,Male,Theft,1.0,1.0,Ghost Truck,Male
+196,7.7,255.0,Male,Competition,1.0,2.0,Man-Crab,Male
+197,8.0,254.0,"Male,Male",Competition,0.0,2.0,"Que Horrifico,Spookified Kids",Female
+198,8.5,263.0,Female,Competition,2.0,2.0,Ghost Girl,Female
+199,8.2,256.0,Male,Competition,0.0,0.0,Phantom,Male
+200,7.8,229.0,Male,Competition,0.0,0.0,Gnome,Male
+201,7.6,221.0,"Male,Male",Competition,4.0,0.0,"Green Humungonaut,Red Humungonaut","Male,Male"
+203,8.2,235.0,Male,Competition,0.0,2.0,Fright Hound,Female
+204,8.1,225.0,Female,Theft,0.0,0.0,Vampire,Female
+205,8.4,246.0,Male,Competition,1.0,1.0,Char Gar Gothakon,Male
+206,8.0,224.0,Male,Preservation,0.0,0.0,Cicada Creature,Female
+207,8.2,254.0,Male,Imagination,0.0,0.0,Lord Infernicus,Male
+208,7.7,221.0,Male,Competition,2.0,0.0,Shadowy Orc,Male
+209,8.2,228.0,Female,Competition,0.0,1.0,Aphrodite,Female
+210,8.2,211.0,Male,Theft,1.0,1.0,White Wizard,"Male,Female"
+211,8.5,227.0,Male,Competition,1.0,0.0,Nightfright,Male
+212,8.1,203.0,"Male,Male,Male,Male",Natural Resource,2.0,1.0,"Fish Freaks,Fish Freaks,Fish Freaks,Fish Freaks",Male
+213,8.2,212.0,Male,Competition,0.0,0.0,Manticore,Female
+214,8.1,196.0,Male,Competition,1.0,1.0,Headless Horror,Female
+215,8.6,211.0,Male,Theft,2.0,0.0,Shadowy Figure,Male
+216,8.2,194.0,Male,Competition,2.0,0.0,Ghost of Dead Justice,Male
+217,8.8,212.0,Female,Theft,2.0,2.0,Obliteratrix,Female
+221,6.9,195.0,Male,Competition,0.0,0.0,Fortius,Male
+222,7.9,187.0,"Male,Female",Smuggling,0.0,2.0,"Baba Yaga House,Baba Yaga",Male
+223,8.4,197.0,Male,Abduction,2.0,1.0,Crybaby Clown,Male
+224,8.2,192.0,Male,Competition,0.0,0.0,Dreamweaver,Male
+225,8.4,188.0,Male,Theft,0.0,0.0,Hodag of Horror,Male
+226,7.7,177.0,Male,Competition,0.0,2.0,Junk,Male
+227,8.2,172.0,Male,Natural Resource,1.0,3.0,Graveyard Ghoul,Male
+228,8.3,183.0,Female,Treasure,2.0,0.0,Dark Lilith,Female
+229,8.3,176.0,Male,Competition,0.0,0.0,Hebediah Grim,"Male,Male"
+231,8.7,187.0,"Male,Female",Theft,0.0,0.0,"Kriegstaffebot,Ghost of Abigail Gluck",Male
+232,8.2,169.0,Male,Preservation,0.0,2.0,Scarebear,Male
+233,8.9,207.0,Male,Theft,0.0,0.0,Krampus,"Male,Female,Female,Male,Male,Male,Female,Female,Male,Male,Female"
+234,7.6,174.0,Male,Theft,0.0,1.0,Dragon,"Male,Female"
+235,8.6,180.0,Male,Theft,0.0,0.0,Mummy of Friar Serra,Male
+237,7.0,392.0,Male,Competition,1.0,1.0,Sinister Snowman,Male
+239,8.0,172.0,"Male,Male,Female",Theft,1.0,3.0,"Grey Alien,Reptiod,Nordic Alien","Male,Male,Female"
+240,8.3,167.0,"Male,Female",Theft,0.0,0.0,"Skull Cattles,Skull Cattle Queen",Male
+241,8.0,180.0,"Male,Male,Male,Male",Competition,2.0,1.0,"Rude Boy and the Ska-Tastics,Rude Boy and the Ska-Tastics,Rude Boy and the Ska-Tastics,Rude Boy and the Ska-Tastics","Male,Male,Male,Male"
+242,7.8,166.0,Male,Competition,1.0,2.0,Gluton Demon,Female
+243,8.3,171.0,Male,Competition,0.0,2.0,Dandy Highwayman,Male
+244,8.9,176.0,"Male,Female",Theft,1.0,0.0,"Evil Fred,Evil Daphnie","Male,Female"
+245,8.9,187.0,Male,Preservation,0.0,3.0,Monstrous Freak,Male
+246,8.4,165.0,Female,Competition,1.0,1.0,Priestess,Male
+247,8.7,169.0,Male,Treasure,1.0,1.0,Kriegstaffebot,Male
+250,7.3,403.0,Male,Theft,0.0,0.0,Cornfield Clem,Male
+251,6.5,242.0,Male,Competition,1.0,0.0,Mecha Mutt,Female
+253,6.6,216.0,Male,Theft,1.0,1.0,Eshu,Male
+256,7.1,188.0,Male,Theft,0.0,0.0,Sea Monster,Male
+258,7.9,122.0,Male,Competition,0.0,0.0,Ghost of Elias Kingston,"Male,Male"
+259,7.2,102.0,Male,Treasure,1.0,0.0,Spirit of the Zatari Warrior,Male
+260,7.4,101.0,"Male,Male",Treasure,1.0,0.0,"Sea Creature,Sea Creature","Male,Female"
+261,7.3,85.0,Male,Competition,0.0,1.0,Gargoyle,Female
+262,7.3,78.0,Male,Competition,0.0,0.0,Ghost of Chip Braverton,Male
+263,7.6,80.0,Male,Theft,0.0,0.0,Sobek,Female
+264,7.5,84.0,Male,Competition,0.0,1.0,Crystal Crawler,Male
+265,8.2,88.0,Male,Theft,0.0,0.0,Headless Count,Male
+266,7.4,72.0,Female,Competition,2.0,0.0,Ghost of the Prima Donna,Male
+267,7.5,75.0,Male,Competition,0.0,2.0,Yeti,Male
+268,7.5,72.0,Male,Competition,1.0,0.0,Butler 3000,Female
+269,7.4,71.0,Male,Competition,2.0,0.0,Alien,Male
+270,7.5,81.0,Male,Inheritance,0.0,0.0,Phantom,"Female,Female"
+271,6.6,288.0,Male,Treasure,0.0,2.0,Black Knight,Male
+272,7.4,75.0,Male,Theft,0.0,0.0,Pterodactyl,"Male,Male"
+273,7.7,72.0,Male,Theft,1.0,0.0,Ghost of Stealin' Stan,Male
+274,7.8,66.0,Male,Competition,1.0,0.0,Gremlin,Male
+275,7.9,67.0,Male,Competition,2.0,0.0,Sorcerer,Male
+276,8.2,67.0,Male,Theft,1.0,0.0,Swamp Monster,Male
+277,7.5,63.0,Male,Preservation,1.0,0.0,Snow Monster,Female
+279,7.4,58.0,Male,Competition,0.0,0.0,Giant,Male
+280,7.4,54.0,"Male,Male",Natural Resource,1.0,0.0,"Scarecrow,Scarecrow","Male,Male"
+283,7.2,58.0,Female,Competition,0.0,0.0,Ghost of the Cliff Bride,"Female,Female"
+284,7.6,52.0,Male,Treasure,0.0,0.0,Spirit of El Bandito,Male
+285,7.2,50.0,Male,Competition,2.0,0.0,Madcap the Killer Clown,Male
+286,7.3,48.0,"Male,Male,Male",Natural Resource,0.0,0.0,"Viking Ghosts,Viking Ghosts,Viking Ghosts","Male,Female,Male"
+287,7.7,50.0,Male,Theft,1.0,0.0,Toxic Mutant,Male
+289,8.2,53.0,Male,Competition,1.0,0.0,Dorsal Foot,Male
+290,7.5,40.0,Male,Theft,1.0,1.0,Werewolf,Male
+291,7.4,40.0,Male,Competition,0.0,0.0,Jester Monster,Male
+292,7.6,42.0,Male,Theft,1.0,1.0,Vampire,"Male,Male"
+293,7.1,38.0,Male,Competition,0.0,0.0,Houndbeast,Female
+294,7.5,42.0,"Male,Male,Male,Male,Female,Male,Male,Male",Theft,0.0,0.0,"Grim Reaper,Mummy,Tengu,Tarasque,Tzitzimitl,Manticore,Haniver,Hemogoblin","Male,Female,Male"
+295,7.4,43.0,"Female,Male",Competition,1.0,0.0,"Baba Yaga,Baba Yaga House","Female,Male"
+296,7.5,39.0,Male,Competition,0.0,0.0,Kaniaku,Male
+297,6.6,40.0,Male,Competition,0.0,0.0,Ghost of Amos Littlefield,Female
+298,7.7,47.0,"Male,Female,Male,Male",Theft,0.0,0.0,"Ghost of Jacob Marley,Ghost of Christmas Past,Ghost of Christmas Present,Ghost of Christmas Future",Male
+299,8.0,44.0,Male,Natural Resource,0.0,0.0,Space Kook,Male
+300,7.9,50.0,Female,Competition,0.0,0.0,Ghost of Mother,Male
+301,7.4,38.0,Male,Competition,0.0,0.0,Ghost of Archie Barnes,Female
+302,7.2,35.0,Male,Competition,0.0,0.0,Mutant Rabbit,"Male,Male"
+303,6.7,35.0,Female,Competition,0.0,0.0,Arachne,"Male,Male"
+305,7.1,41.0,Male,Competition,1.0,0.0,Plant Monster,Male
+306,7.2,31.0,Male,Competition,0.0,0.0,Minus,"Female,Male"
+307,7.4,36.0,Female,Competition,0.0,0.0,The Mystery Machine,"Male,Female"
+308,7.4,38.0,Male,Theft,1.0,0.0,Ice Man,Female
+309,7.3,39.0,Male,Competition,0.0,0.0,Ape Man,Female
+310,6.9,37.0,Male,Theft,0.0,1.0,Trash Monster,Male
+311,6.7,33.0,Male,Competition,1.0,1.0,Ghost Chef,"Female,Female"
+312,6.9,33.0,Male,Theft,0.0,0.0,Demon of Salem,"Male,Female"
+313,7.9,36.0,Male,Competition,1.0,0.0,Professor Huh?,"Female,Male, Male"
+314,6.8,31.0,Male,Competition,0.0,0.0,Pizza O'Possum,Female
+315,6.8,31.0,Male,Treasure,1.0,0.0,Half-Beard's Ghost,"Male,Male,Female"
+319,7.0,126.0,Male,Competition,0.0,0.0,Swamp Monster,Male
+320,7.9,93.0,Male,Treasure,1.0,1.0,Civil War Zombie Ghosts,Male
+321,7.9,79.0,Male,Competition,2.0,0.0,Fish Monster,Male
+322,8.1,78.0,Male,Theft,1.0,0.0,Screaming Skulls of London,"Male,Male"
+324,7.3,84.0,Male,Theft,1.0,0.0,Cat Mummy,Male
+325,8.1,74.0,Male,Treasure,2.0,0.0,Minotaur,Male
+326,8.3,70.0,"Male,Male",Entertainment,0.0,1.0,"Ghost of Madds Markson,Madds Markson Monster",Male
+327,6.5,74.0,Male,Natural Resource,2.0,0.0,Technomancer,Female
+328,7.5,52.0,Male,Competition,2.0,1.0,Spectral Speedster,Male
+329,7.5,61.0,"Male,Male",Natural Resource,3.0,1.0,"Dinosaur,Dinosaur","Male,Male"
+330,7.4,59.0,Female,Theft,2.0,2.0,Sia Doppelganger,Female
+331,7.4,47.0,Male,Competition,2.0,2.0,Pazzo the Ghost Clown,Male
+332,8.7,84.0,Male,Theft,4.0,0.0,Man-Bat,Male
+333,8.1,38.0,Male,Inheritance,3.0,1.0,Nightmare Ghost,Female
+334,8.8,35.0,Male,Theft,0.0,0.0,Fox Monster,Male
+335,7.9,36.0,"Male,Male,Male,Male,Male,Male,Male,Female,Male,Male,Male,Male",Competition,1.0,1.0,"Miner Forty-Niner,Ghost of Captain Cutler,Spooky Space Kook,Snow Ghost,Clown,Ghost of Redbeard,Back Knight,Witch,Witch Doctor,Phantom,Creeper,Giant Teddy Bear","Male,Male,Male,Male,Male,Male,Female,Male,Male,Male,Male"
+336,8.1,25.0,Male,Inheritance,4.0,6.0,Ghost of the Doom Bringer,Male
+337,7.8,27.0,Male,Treasure,2.0,2.0,Gator Man Monster,Male
+338,7.7,23.0,Male,Competition,1.0,1.0,Fire Monster of Mount Etna,Female
+339,8.2,28.0,Male,Competition,1.0,0.0,Crazy Carl,Male
+340,7.6,22.0,Female,Competition,0.0,2.0,Ghost of Madame Zobrinsky,Female
+341,8.6,19.0,Female,Theft,1.0,1.0,Wedding Witch of Wainsly Hall,Female
+342,7.9,21.0,"Male,Male",Simulation,3.0,2.0,"Chronobeast,Robo Dooby Doo",Male
+343,8.4,25.0,Female,Competition,0.0,0.0,Ghost of Ester Moonkiller,Female
+344,7.6,27.0,Male,Competition,0.0,1.0,Werewolf,Male
+345,8.2,24.0,Male,Theft,3.0,0.0,Tardigrade Monster,"Male,Male"
+347,6.2,422.0,"Female,Male",Competition,0.0,0.0,"Morgan le Fay,Black Knight",Female
