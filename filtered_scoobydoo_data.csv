@@ -1,0 +1,17 @@
+,index,series_name,network,imdb,engagement,date_aired,run_time,format,monster_name,monster_gender,monster_type,monster_species,monster_real,monster_amount,suspects_amount,arrested,culprit_gender,culprit_amount,motive,split_up,another_mystery,set_a_trap,jeepers,jinkies,my_glasses,just_about_wrapped_up,zoinks,groovy,scooby_doo_where_are_you,rooby_rooby_roo
+2,3,"Scooby Doo, Where Are You!",CBS,8.0,455.0,1969-09-27,21,TV Series,Phantom,Male,Ghost,Human,False,1,0,True,Male,1,Treasure,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0
+23,24,"Scooby Doo, Where Are You!",CBS,8.2,292.0,1970-10-24,21,TV Series,Werewolf,Male,Animal,Human,False,1,0,True,Male,1,Smuggling,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+85,135,The Scooby-Doo Show,ABC,7.5,84.0,1978-11-18,23,TV Series,Phantom,Male,Ghost,Human,False,1,6,True,Male,1,Smuggling,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0
+93,143,Scooby-Doo and Scrappy-Doo (first series),ABC,7.6,54.0,1979-10-06,21,TV Series,Alien,Male,Extraterrestrial,Alien,False,1,3,True,Female,1,Smuggling,0.0,0.0,0.0,0.0,2.0,0.0,0.0,10.0,0.0,0.0,0.0
+123,318,A Pup Named Scooby-Doo,ABC,7.7,43.0,1989-09-16,23,TV Series,Alien,Male,Extraterrestrial,Alien,False,1,4,True,Female,1,Theft,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0
+147,348,What's New Scooby-Doo?,The WB,7.6,144.0,2002-10-26,21,TV Series,The Mystery Machine,Female,Possessed Object,Vehicle,False,1,5,False,Female,1,Competition,0.0,0.0,0.0,1.0,1.0,1.0,0.0,3.0,0.0,0.0,1.0
+199,430,Scooby-Doo Mystery Incorporated,Cartoon Network,8.2,256.0,2010-08-23,23,TV Series,Phantom,Male,Ghost,Human,False,1,2,True,Male,1,Competition,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+204,435,Scooby-Doo Mystery Incorporated,Cartoon Network,8.1,225.0,2010-10-11,22,TV Series,Vampire,Female,Undead,Human,False,1,3,True,Female,1,Theft,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+249,485,Warner Home Video,Warner Home Video,7.1,1380.0,2013-08-20,78,Movie,Phantom,Male,Ghost,Human,False,1,19,True,"Male,Male,Male,Male,Male",5,Theft,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0
+255,491,Warner Home Video,Warner Home Video,6.5,1269.0,2015-02-17,80,Movie,Alien,Male,Extraterrestrial,Alien,False,1,8,True,Female,1,Competition,0.0,0.0,0.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0
+269,505,"Be Cool, Scooby-Doo!",Cartoon Network,7.4,71.0,2015-10-23,22,TV Series,Alien,Male,Extraterrestrial,Alien,False,1,2,True,Male,1,Competition,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+270,506,"Be Cool, Scooby-Doo!",Cartoon Network,7.5,81.0,2015-10-28,22,TV Series,Phantom,Male,Ghost,Human,False,1,4,True,"Female,Female",2,Inheritance,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+290,526,"Be Cool, Scooby-Doo!",Boomerang,7.5,40.0,2017-11-15,22,TV Series,Werewolf,Male,Animal,Human,False,1,3,True,Male,1,Theft,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+292,528,"Be Cool, Scooby-Doo!",Boomerang,7.6,42.0,2017-12-21,22,TV Series,Vampire,Male,Undead,Human,False,1,3,True,"Male,Male",2,Theft,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+307,543,"Be Cool, Scooby-Doo!",Boomerang,7.4,36.0,2018-03-10,22,TV Series,The Mystery Machine,Female,Possessed Object,Vehicle,False,1,4,True,"Male,Female",2,Competition,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+344,585,Scooby-Doo and Guess Who?,Boomerang,7.6,27.0,2020-07-02,23,TV Series,Werewolf,Male,Animal,Human,False,1,4,True,Male,1,Competition,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
