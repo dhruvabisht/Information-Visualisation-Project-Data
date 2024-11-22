@@ -1,0 +1,467 @@
+index,network,title,imdb,engagement,date_aired,format,monster_gender,motive,fred_va,daphnie_va,velma_va,shaggy_va,scooby_va
+1,CBS,What a Night for a Knight,8.1,556.0,1969-09-13,TV Series,Male,Theft,Frank Welker,Stefanianna Christopherson,Nicole Jaffe,Casey Kasem,Don Messick
+2,CBS,A Clue for Scooby Doo,8.1,479.0,1969-09-20,TV Series,Male,Theft,Frank Welker,Stefanianna Christopherson,Nicole Jaffe,Casey Kasem,Don Messick
+3,CBS,Hassle in the Castle,8.0,455.0,1969-09-27,TV Series,Male,Treasure,Frank Welker,Stefanianna Christopherson,Nicole Jaffe,Casey Kasem,Don Messick
+4,CBS,Mine Your Own Business,7.8,426.0,1969-10-04,TV Series,Male,Natural Resource,Frank Welker,Stefanianna Christopherson,Nicole Jaffe,Casey Kasem,Don Messick
+5,CBS,Decoy for a Dognapper,7.5,391.0,1969-10-11,TV Series,Female,Competition,Frank Welker,Stefanianna Christopherson,Nicole Jaffe,Casey Kasem,Don Messick
+6,CBS,What the Hex Going On?,8.4,384.0,1969-10-18,TV Series,Male,Extortion,Frank Welker,Stefanianna Christopherson,Nicole Jaffe,Casey Kasem,Don Messick
+7,CBS,Never Ape an Ape Man,7.6,358.0,1969-10-25,TV Series,Male,Competition,Frank Welker,Stefanianna Christopherson,Nicole Jaffe,Casey Kasem,Don Messick
+8,CBS,Foul Play in Funland,8.2,358.0,1969-11-01,TV Series,Male,Safety,Frank Welker,Stefanianna Christopherson,Nicole Jaffe,Casey Kasem,Don Messick
+9,CBS,The Backstage Rage,8.1,371.0,1969-11-08,TV Series,Male,Counterfeit,Frank Welker,Stefanianna Christopherson,Nicole Jaffe,Casey Kasem,Don Messick
+10,CBS,Bedlam in the Big Top,8.0,346.0,1969-11-15,TV Series,Male,Competition,Frank Welker,Stefanianna Christopherson,Nicole Jaffe,Casey Kasem,Don Messick
+11,CBS,A Gaggle of Galloping Ghosts,8.5,379.0,1969-11-22,TV Series,Male,Treasure,Frank Welker,Stefanianna Christopherson,Nicole Jaffe,Casey Kasem,Don Messick
+12,CBS,"Scooby-Doo and a Mummy, Too",8.2,358.0,1969-11-29,TV Series,Male,Theft,Frank Welker,Stefanianna Christopherson,Nicole Jaffe,Casey Kasem,Don Messick
+14,CBS,Go Away Ghost Ship,8.1,331.0,1969-12-13,TV Series,Male,Theft,Frank Welker,Stefanianna Christopherson,Nicole Jaffe,Casey Kasem,Don Messick
+15,CBS,Spooky Space Kook,8.4,372.0,1969-12-20,TV Series,Male,Competition,Frank Welker,Stefanianna Christopherson,Nicole Jaffe,Casey Kasem,Don Messick
+16,CBS,A Night of Fright Is No Delight,8.7,403.0,1970-01-10,TV Series,Male,Inheritance,Frank Welker,Stefanianna Christopherson,Nicole Jaffe,Casey Kasem,Don Messick
+17,CBS,That's Snow Ghost,8.0,328.0,1970-01-17,TV Series,Male,Theft,Frank Welker,Stefanianna Christopherson,Nicole Jaffe,Casey Kasem,Don Messick
+18,CBS,Nowhere to Hyde,8.3,322.0,1970-09-12,TV Series,Male,Theft,Frank Welker,Heather North,Nicole Jaffe,Casey Kasem,Don Messick
+19,CBS,Mystery Mask Mix-Up,7.8,312.0,1970-09-19,TV Series,Male,Smuggling,Frank Welker,Heather North,Nicole Jaffe,Casey Kasem,Don Messick
+20,CBS,Scooby's Night with a Frozen Fright,7.7,301.0,1970-09-26,TV Series,Male,Theft,Frank Welker,Heather North,Nicole Jaffe,Casey Kasem,Don Messick
+21,CBS,"Jeepers, It's the Creeper",8.5,347.0,1970-10-03,TV Series,Male,Theft,Frank Welker,Heather North,Nicole Jaffe,Casey Kasem,Don Messick
+22,CBS,Haunted House Hang-Up,8.4,303.0,1970-10-10,TV Series,Male,Treasure,Frank Welker,Heather North,Nicole Jaffe,Casey Kasem,Don Messick
+24,CBS,Who's Afraid of the Big Bad Werewolf?,8.2,292.0,1970-10-24,TV Series,Male,Smuggling,Frank Welker,Heather North,Nicole Jaffe,Casey Kasem,Don Messick
+25,CBS,Don't Fool with a Phantom,7.9,282.0,1970-10-31,TV Series,Male,Theft,Frank Welker,Heather North,Nicole Jaffe,Casey Kasem,Don Messick
+27,CBS,The Dynamic Scooby-Doo Affair,7.8,232.0,1972-09-16,TV Series,Male,Counterfeit,Frank Welker,Heather North,Nicole Jaffe,Casey Kasem,Don Messick
+28,CBS,Wednesday Is Missing,7.9,119.0,1972-09-23,TV Series,Female,Safety,Frank Welker,Heather North,Nicole Jaffe,Casey Kasem,Don Messick
+29,CBS,The Frickert Fracas,7.9,116.0,1972-09-30,TV Series,Male,Treasure,Frank Welker,Heather North,Nicole Jaffe,Casey Kasem,Don Messick
+30,CBS,Guess Who's Knott Coming to Dinner?,7.9,111.0,1972-10-07,TV Series,Male,Inheritance,Frank Welker,Heather North,Nicole Jaffe,Casey Kasem,Don Messick
+31,CBS,A Good Medium Is Rare,7.7,88.0,1972-10-14,TV Series,Male,Theft,Frank Welker,Heather North,Nicole Jaffe,Casey Kasem,Don Messick
+32,CBS,Sandy Duncan's Jekyll and Hyde,7.8,90.0,1972-10-21,TV Series,Male,Preservation,Frank Welker,Heather North,Nicole Jaffe,Casey Kasem,Don Messick
+33,CBS,The Secret of Shark Island,8.5,109.0,1972-10-28,TV Series,Male,Treasure,Frank Welker,Heather North,Nicole Jaffe,Casey Kasem,Don Messick
+35,CBS,The Ghost of Bigfoot,8.3,118.0,1972-11-11,TV Series,Male,Theft,Frank Welker,Heather North,Nicole Jaffe,Casey Kasem,Don Messick
+36,CBS,The Ghost of the Red Baron,7.6,86.0,1972-11-18,TV Series,Male,Competition,Frank Welker,Heather North,Nicole Jaffe,Casey Kasem,Don Messick
+37,CBS,The Ghostly Creep from the Deep,7.4,90.0,1972-11-25,TV Series,Male,Natural Resource,Frank Welker,Heather North,Nicole Jaffe,Casey Kasem,Don Messick
+38,CBS,The Haunted Horseman of Hagglethorn Hall,7.8,86.0,1972-12-02,TV Series,Male,Competition,Frank Welker,Heather North,Nicole Jaffe,Casey Kasem,Don Messick
+39,CBS,The Phantom of the Country Music Hall,7.6,81.0,1972-12-09,TV Series,Male,Theft,Frank Welker,Heather North,Nicole Jaffe,Casey Kasem,Don Messick
+40,CBS,The Caped Crusader Caper,7.2,183.0,1972-12-16,TV Series,Male,Theft,Frank Welker,Heather North,Nicole Jaffe,Casey Kasem,Don Messick
+41,CBS,The Lochness Mess,7.9,114.0,1972-12-23,TV Series,Male,Treasure,Frank Welker,Heather North,Nicole Jaffe,Casey Kasem,Don Messick
+42,CBS,The Mystery of Haunted Island,7.4,103.0,1973-09-08,TV Series,Male,Competition,Frank Welker,Heather North,Nicole Jaffe,Casey Kasem,Don Messick
+43,CBS,The Haunted Showboat,7.9,82.0,1973-09-15,TV Series,Male,Counterfeit,Frank Welker,Heather North,Nicole Jaffe,Casey Kasem,Don Messick
+44,CBS,Mystery in Persia,7.5,82.0,1973-09-22,TV Series,Male,Competition,Frank Welker,Heather North,Nicole Jaffe,Casey Kasem,Don Messick
+45,CBS,The Spirited Spooked Sports Show,7.4,73.0,1973-09-29,TV Series,Male,Competition,Frank Welker,Heather North,Nicole Jaffe,Casey Kasem,Don Messick
+46,CBS,The Exterminator,7.6,85.0,1973-10-06,TV Series,Male,Competition,Frank Welker,Heather North,Nicole Jaffe,Casey Kasem,Don Messick
+47,CBS,The Weird Winds of Winona,7.3,91.0,1973-10-13,TV Series,Male,Competition,Frank Welker,Heather North,Nicole Jaffe,Casey Kasem,Don Messick
+48,CBS,The Haunted Candy Factory,7.8,104.0,1973-10-20,TV Series,Male,Smuggling,Frank Welker,Heather North,Nicole Jaffe,Casey Kasem,Don Messick
+49,CBS,The Haunted Carnival,7.6,92.0,1973-10-27,TV Series,Male,Competition,Frank Welker,Heather North,Nicole Jaffe,Casey Kasem,Don Messick
+51,ABC,Everyone Hyde!,7.2,12.0,1976-09-11,Crossover,Male,Theft,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+52,ABC,The Fiesta Host is an Aztec Ghost,7.4,97.0,1976-09-18,TV Series,Male,Treasure,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+53,ABC,"What Now, Lowbrow?",6.9,11.0,1976-09-18,Crossover,Male,Theft,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+54,ABC,The Gruesome Game of the Gator Ghoul,7.5,95.0,1976-09-25,TV Series,Male,Competition,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+55,ABC,Whatta Shocking Ghost,8.0,101.0,1976-10-02,TV Series,Male,Competition,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+56,ABC,The Headless Horseman of Halloween,8.0,127.0,1976-10-09,TV Series,Male,Theft,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+57,ABC,Scared a Lot in Camelot,7.6,93.0,1976-10-16,TV Series,Male,Theft,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+58,ABC,The Harum-Scarum Sanitarium,8.2,99.0,1976-10-23,TV Series,Male,Smuggling,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+59,ABC,The No-Face Zombie Chase Case,7.7,91.0,1976-10-30,TV Series,Male,Theft,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+61,ABC,A Frightened Hound Meets Demons Underground,7.4,84.0,1976-11-13,TV Series,Male,Theft,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+62,ABC,The Wizard of Ooze,6.3,7.0,1976-11-13,Crossover,Male,Theft,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+63,ABC,A Bum Steer for Scooby,6.8,84.0,1976-11-20,TV Series,Male,Theft,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+64,ABC,There's a Demon Shark in the Foggy Dark,7.2,80.0,1976-11-25,TV Series,Male,Smuggling,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+65,ABC,"Scooby-Doo, Where's the Crew?",7.3,77.0,1976-11-27,TV Series,Male,Treasure,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+66,ABC,The Ghost That Sacked the Quarterback,6.8,75.0,1976-12-04,TV Series,Male,Competition,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+67,ABC,The Ghost of the Bad Humor Man,7.7,84.0,1976-12-11,TV Series,Male,Theft,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+68,ABC,The Spirits of '76,7.5,81.0,1976-12-18,TV Series,Male,Counterfeit,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+69,ABC,The Curse of the Viking Lake,7.4,71.0,1977-09-10,TV Series,Male,Natural Resource,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+72,ABC,Vampire Bats and Scaredy Cats,8.2,104.0,1977-09-17,TV Series,Male,Competition,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+75,ABC,"Hang in There, Scooby-Doo",7.4,76.0,1977-09-24,TV Series,Male,Theft,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+78,ABC,The Chiller Diller Movie Thriller,7.9,77.0,1977-10-01,TV Series,Male,Competition,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+80,ABC,Scotland,7.2,21.0,1977-10-01,TV Series (segmented),Female,,,,,Casey Kasem,Don Messick
+81,ABC,The Spooky Case of the Grand Prix Race,7.4,75.0,1977-10-08,TV Series,Male,Theft,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+87,ABC,Creepy Cruise,7.7,78.0,1977-10-22,TV Series,Male,Theft,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+90,ABC,The Creepy Heap from the Deep,7.4,71.0,1977-10-29,TV Series,Male,Smuggling,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+100,ABC,Ireland,6.3,22.0,1977-11-26,TV Series (segmented),Male,,,,,,
+101,ABC,Hawaii,6.9,18.0,1977-12-03,TV Series (segmented),Male,,,,,Casey Kasem,Don Messick
+109,ABC,Watch Out! The Willawa!,7.5,96.0,1978-09-09,TV Series,Male,Smuggling,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+111,ABC,Caribbean,6.7,13.0,1978-09-09,TV Series (segmented),Male,,,,,Casey Kasem,Don Messick
+112,ABC,A Creepy Tangle in the Bermuda Triangle,7.3,101.0,1978-09-16,TV Series,Male,Theft,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+115,ABC,A Scary Night with a Snow Beast Fright,7.1,98.0,1978-09-23,TV Series,Male,Natural Resource,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+116,ABC,South America,6.6,15.0,1978-09-23,TV Series (segmented),Female,,,,,,
+117,ABC,Transylvania,6.6,15.0,1978-09-23,TV Series (segmented),Male,,,,,,
+118,ABC,To Switch a Witch,8.0,107.0,1978-09-30,TV Series,Female,Inheritance,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+121,ABC,The Tar Monster,7.6,92.0,1978-10-07,TV Series,Male,Treasure,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+123,ABC,Atlantis,6.5,15.0,1978-10-07,TV Series (segmented),Male,,,,,,
+127,ABC,The Creepy Case of Old Iron Face,7.7,80.0,1978-10-21,TV Series,Male,Smuggling,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+130,ABC,"Jeepers, It's the Jaguaro!",7.2,91.0,1978-10-28,TV Series,Male,Natural Resource,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+133,ABC,Make a Beeline Away from that Feline,8.0,88.0,1978-11-04,TV Series,Male,Theft,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+134,ABC,The Creepy Creature of Vulture's Claw,7.5,80.0,1978-11-11,TV Series,Male,Natural Resource,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+135,ABC,The Diabolical Disc Demon,7.5,84.0,1978-11-18,TV Series,Male,Smuggling,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+136,ABC,Scooby's Chinese Fortune Kooky Caper,7.5,85.0,1978-11-25,TV Series,Male,Theft,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+137,ABC,A Menace in Venice,7.5,92.0,1978-12-02,TV Series,Male,Treasure,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+138,ABC,Don't Go Near the Fortress of Fear,7.2,83.0,1978-12-09,TV Series,Male,Treasure,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+139,ABC,The Warlock of Wimbledon,6.8,84.0,1978-12-16,TV Series,Male,Competition,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+140,ABC,The Beast is Awake in Bottomless Lake,7.1,84.0,1978-12-23,TV Series,Male,Smuggling,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+141,ABC,The Scarab Lives!,7.6,67.0,1979-09-22,TV Series,Male,Competition,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+142,ABC,The Night Ghoul of Wonderworld,7.6,59.0,1979-09-29,TV Series,Male,Theft,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+143,ABC,Strange Encounters of a Scooby Kind,7.6,54.0,1979-10-06,TV Series,Male,Smuggling,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+144,ABC,The Neon Phantom of the Roller Disco!,7.4,55.0,1979-10-13,TV Series,Male,Competition,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+145,ABC,"Shiver and Shake, That Demon's a Snake",7.5,51.0,1979-10-20,TV Series,Male,Smuggling,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+146,ABC,The Scary Sky Skeleton,7.4,51.0,1979-10-27,TV Series,Male,Natural Resource,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+147,ABC,The Demon of the Dugout,7.5,51.0,1979-11-03,TV Series,Male,Theft,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+148,ABC,The Hairy Scare of the Devil Bear,7.3,53.0,1979-11-10,TV Series,Male,Treasure,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+149,ABC,Twenty Thousand Screams Under the Sea,7.6,47.0,1979-11-17,TV Series,Male,Treasure,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+150,ABC,I Left My Neck in San Francisco,8.0,52.0,1979-11-24,TV Series,Female,Theft,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+151,ABC,When You Wish Upon a Star Creature,7.2,48.0,1979-12-01,TV Series,Male,Theft,Frank Welker,Heather North,Pat Stevens,Casey Kasem,Don Messick
+152,ABC,"The Ghoul, the Bat and the Ugly",7.7,52.0,1979-12-08,TV Series,Male,Theft,Frank Welker,Heather North,Marla Scott,Casey Kasem,Don Messick
+154,ABC,Rocky Mountain Yiiiii!,7.5,48.0,1979-12-15,TV Series,Male,Treasure,Frank Welker,Heather North,Marla Scott,Casey Kasem,Don Messick
+155,ABC,The Sorcerer's a Menace,7.3,47.0,1979-12-22,TV Series,Male,Theft,Frank Welker,Heather North,Marla Scott,Casey Kasem,Don Messick
+156,ABC,"Lock the Door, It's a Minotaur!",7.5,46.0,1979-12-29,TV Series,Male,Treasure,Frank Welker,Heather North,Marla Scott,Casey Kasem,Don Messick
+158,ABC,A Close Encounter with a Strange Kind,7.1,35.0,1980-11-08,TV Series (segmented),Male,Experimentation,,,,Casey Kasem,Don Messick
+159,ABC,A Fit Night Out for Bats,7.1,35.0,1980-11-08,TV Series (segmented),Male,Food,,,,Casey Kasem,Don Messick
+160,ABC,The Chinese Food Factory,7.1,35.0,1980-11-08,TV Series (segmented),Male,Theft,,,,Casey Kasem,Don Messick
+161,ABC,Scooby's Desert Dilemma,7.2,36.0,1980-11-15,TV Series (segmented),Male,Experimentation,,,,Casey Kasem,Don Messick
+162,ABC,The Old Cat and Mouse Game,7.2,37.0,1980-11-15,TV Series (segmented),Male,Food,,,,Casey Kasem,Don Messick
+164,ABC,Mummy's the Word,7.2,36.0,1980-11-22,TV Series (segmented),Male,Trespassing,,,,Casey Kasem,Don Messick
+168,ABC,Scooby's Fantastic Island,7.1,31.0,1980-11-29,TV Series (segmented),Male,Assistance,,,,Casey Kasem,Don Messick
+169,ABC,Long John Scrappy,6.8,32.0,1980-11-29,TV Series (segmented),Male,Abduction,,,,Casey Kasem,Don Messick
+174,ABC,Swamp Witch,6.7,36.0,1980-12-13,TV Series (segmented),Female,Food,,,,Casey Kasem,Don Messick
+175,ABC,Sir Scooby and the Black Knight,7.0,29.0,1980-12-13,TV Series (segmented),Male,Trespassing,,,,Casey Kasem,Don Messick
+176,ABC,Waxworld,6.7,36.0,1980-12-20,TV Series (segmented),Male,Abduction,,,,Casey Kasem,Don Messick
+179,ABC,South Seas Scare,7.0,32.0,1980-12-27,TV Series (segmented),Male,Trespassing,,,,Casey Kasem,Don Messick
+181,ABC,Alaskan King Coward,7.0,32.0,1980-12-27,TV Series (segmented),Male,Food,,,,Casey Kasem,Don Messick
+182,ABC,"Et Tu, Scoob?",6.7,29.0,1981-01-03,TV Series (segmented),Male,Competition,,,,Casey Kasem,Don Messick
+183,ABC,Soggy Bog Scooby,6.7,29.0,1981-01-03,TV Series (segmented),Male,Food,,,,Casey Kasem,Don Messick
+187,ABC,Moonlight Madness,7.0,32.0,1981-01-10,TV Series (segmented),Male,Loneliness,,,,Casey Kasem,Don Messick
+189,ABC,Scooby at the Center of the World,7.1,31.0,1981-01-17,TV Series (segmented),Male,Trespassing,,,,Casey Kasem,Don Messick
+190,ABC,Scooby's Trip to Ahz,7.1,31.0,1981-01-17,TV Series (segmented),Female,Imagination,,,,Casey Kasem,Don Messick
+191,ABC,A Fright at the Opera,7.2,31.0,1981-01-24,TV Series (segmented),Male,Trespassing,,,,Casey Kasem,Don Messick
+192,ABC,Robot Ranch,7.1,31.0,1981-01-24,TV Series (segmented),Male,Abduction,,,,Casey Kasem,Don Messick
+193,ABC,Surprised Spies,7.1,31.0,1981-01-24,TV Series (segmented),Male,Theft,,,,Casey Kasem,Don Messick
+194,ABC,The Invasion of the Scooby Snatchers,7.2,31.0,1981-01-31,TV Series (segmented),Male,Conquer,,,,Casey Kasem,Don Messick
+197,ABC,Scooby-Nocchio,7.4,32.0,1981-09-19,TV Series (segmented),Male,Imagination,,,,Casey Kasem,Don Messick
+198,ABC,Lighthouse Keeper Scooby,7.4,32.0,1981-09-19,TV Series (segmented),Male,Trespassing,,,,Casey Kasem,Don Messick
+199,ABC,Scooby's Roots,7.4,32.0,1981-09-19,TV Series (segmented),Male,Mistake,,,,Casey Kasem,Don Messick
+200,ABC,Scooby's Escape from Atlantis,7.2,30.0,1981-09-26,TV Series (segmented),Male,Trespassing,,,,Casey Kasem,Don Messick
+201,ABC,Excalibur Scooby,7.2,30.0,1981-09-26,TV Series (segmented),Male,Assistance,,,,Casey Kasem,Don Messick
+202,ABC,Scooby Saves the World,7.1,27.0,1981-09-26,TV Series (segmented),Male,Conquer,,,,Casey Kasem,Don Messick
+204,ABC,Rickshaw Scooby,7.1,29.0,1981-10-03,TV Series (segmented),Male,Trespassing,,,,Casey Kasem,Don Messick
+205,ABC,Scooby's Luck of the Irish,7.2,30.0,1981-10-03,TV Series (segmented),Male,Trespassing,,,,Casey Kasem,Don Messick
+207,ABC,Scooby's House of Mystery,7.1,27.0,1981-10-10,TV Series (segmented),Female,Experimentation,,,,Casey Kasem,Don Messick
+208,ABC,Sweet Dreams Scooby,7.1,27.0,1981-10-10,TV Series (segmented),Male,Imagination,,,,Casey Kasem,Don Messick
+209,ABC,Scooby-Doo 2000,7.1,29.0,1981-10-17,TV Series (segmented),Male,Automated,,,,Casey Kasem,Don Messick
+210,ABC,Punk Rock Scooby,7.1,29.0,1981-10-17,TV Series (segmented),Male,Abduction,,,,Casey Kasem,Don Messick
+211,ABC,Canine to Five,7.4,27.0,1981-10-17,TV Series (segmented),Male,Food,,,,Casey Kasem,Don Messick
+212,ABC,Hard Hat Scooby,7.1,27.0,1981-10-24,TV Series (segmented),Male,Food,,,,Casey Kasem,Don Messick
+213,ABC,Hothouse Scooby,7.1,29.0,1981-10-24,TV Series (segmented),Male,Food,,,,Casey Kasem,Don Messick
+216,ABC,Tenderbigfoot,7.1,32.0,1981-10-31,TV Series (segmented),Male,Theft,,,,Casey Kasem,Don Messick
+217,ABC,Scooby and the Beanstalk,7.1,32.0,1981-10-31,TV Series (segmented),Male,Food,,,,Casey Kasem,Don Messick
+220,ABC,Catfish Burglar Caper,7.1,24.0,1982-10-02,TV Series (segmented),Male,Theft,,,,Casey Kasem,Don Messick
+230,ABC,Comic Book Caper,7.4,23.0,1982-11-06,TV Series (segmented),Male,Theft,,,,Casey Kasem,Don Messick
+235,ABC,Scooby-Doo and Genie-Poo,7.1,25.0,1982-11-20,TV Series (segmented),Female,Abduction,,,,Casey Kasem,Don Messick
+237,ABC,Captain Canine Caper,7.2,23.0,1982-11-27,TV Series (segmented),Male,Extortion,,,,Casey Kasem,Don Messick
+238,ABC,The Incredible Cat Lady Caper,7.0,23.0,1982-12-04,TV Series (segmented),Female,Theft,,,,Casey Kasem,Don Messick
+240,ABC,One Million Years Before Lunch,7.1,24.0,1982-12-11,TV Series (segmented),Male,Abduction,,,,Casey Kasem,Don Messick
+241,ABC,Where's the Wolf,7.4,24.0,1982-12-11,TV Series (segmented),Male,Food,,,,Casey Kasem,Don Messick
+243,ABC,Snow Job Too Small,6.8,26.0,1982-12-19,TV Series (segmented),Male,Inheritance,,,,Casey Kasem,Don Messick
+244,ABC,Scooby the Barbarian,7.4,27.0,1983-09-10,TV Series (segmented),Male,Theft,,Heather North,,Casey Kasem,Don Messick
+245,ABC,No Sharking Zone,7.4,27.0,1983-09-10,TV Series (segmented),Male,Treasure,,Heather North,,Casey Kasem,Don Messick
+247,ABC,The Quagmire Quake Caper,7.5,21.0,1983-09-10,TV Series (segmented),Male,Theft,,Heather North,,Casey Kasem,Don Messick
+248,ABC,Hound of the Scoobyvilles,7.5,17.0,1983-09-17,TV Series (segmented),Male,Inheritance,,Heather North,,Casey Kasem,Don Messick
+249,ABC,The Dinosaur Deception,7.5,17.0,1983-09-17,TV Series (segmented),Male,Treasure,,Heather North,,Casey Kasem,Don Messick
+250,ABC,The Creature Came from The Chemlab,7.7,20.0,1983-09-17,TV Series (segmented),Male,Theft,,Heather North,,Casey Kasem,Don Messick
+251,ABC,"No Thanks, Masked Manx",7.7,20.0,1983-09-17,TV Series (segmented),Male,Theft,,Heather North,,Casey Kasem,Don Messick
+252,ABC,Scooby of the Jungle,7.2,18.0,1983-09-24,TV Series (segmented),Male,Smuggling,,Heather North,,Casey Kasem,Don Messick
+254,ABC,Scooby Roo,7.5,15.0,1983-10-01,TV Series (segmented),Male,Natural Resource,,Heather North,,Casey Kasem,Don Messick
+256,ABC,Wizards and Warlocks,7.3,15.0,1983-10-08,TV Series (segmented),Male,Competition,,Heather North,,Casey Kasem,Don Messick
+257,ABC,Scoobsie,7.3,15.0,1983-10-08,TV Series (segmented),Male,Competition,,Heather North,,Casey Kasem,Don Messick
+259,ABC,The Crazy Carnival Caper,7.1,17.0,1983-10-15,TV Series (segmented),Male,Theft,,Heather North,,Casey Kasem,Don Messick
+260,ABC,Scooby and the Minotaur,7.4,18.0,1983-10-29,TV Series (segmented),Male,Treasure,,Heather North,,Casey Kasem,Don Messick
+261,ABC,Scooby Pinch Hits,7.4,18.0,1983-10-29,TV Series (segmented),Male,Competition,,Heather North,,Casey Kasem,Don Messick
+262,ABC,The Fall Dog,7.2,20.0,1983-11-05,TV Series (segmented),Male,Competition,,Heather North,,Casey Kasem,Don Messick
+263,ABC,The Scooby Coupe,7.2,20.0,1983-11-05,TV Series (segmented),Male,Competition,,Heather North,,Casey Kasem,Don Messick
+265,ABC,Scooby ala Mode,6.5,21.0,1983-11-26,TV Series (segmented),Male,Competition,,Heather North,,Casey Kasem,Don Messick
+266,ABC,Where's Scooby-Doo?,6.5,19.0,1983-12-03,TV Series,Male,Smuggling,,Heather North,,Casey Kasem,Don Messick
+267,ABC,Wedding Bell Boos!,6.5,23.0,1983-12-10,TV Series,Male,Treasure,,Heather North,,Casey Kasem,Don Messick
+268,ABC,"Happy Birthday, Scooby-Doo",7.2,45.0,1984-09-08,TV Series,Male,Theft,Frank Welker,Heather North,Marla Scott,Casey Kasem,Don Messick
+269,ABC,Scooby's Peep-Hole Pandemonium,7.2,29.0,1984-09-15,TV Series (segmented),Female,Theft,,Heather North,,Casey Kasem,Don Messick
+270,ABC,The Hand of Horror,7.2,29.0,1984-09-15,TV Series (segmented),Male,Theft,,Heather North,,Casey Kasem,Don Messick
+271,ABC,Scoo-Be or Not Scoo-Be?,7.5,29.0,1984-09-22,TV Series (segmented),Male,Natural Resource,,Heather North,,Casey Kasem,Don Messick
+272,ABC,The Stoney Glare Stare,7.5,29.0,1984-09-22,TV Series (segmented),Male,Treasure,,Heather North,,Casey Kasem,Don Messick
+273,ABC,Mission: Un-Doo-Able,7.0,26.0,1984-09-29,TV Series (segmented),Male,Conquer,,Heather North,,Casey Kasem,Don Messick
+274,ABC,The Bee Team,7.0,26.0,1984-09-29,TV Series (segmented),Male,Competition,,Heather North,,Casey Kasem,Don Messick
+275,ABC,Doom Service,7.1,24.0,1984-10-06,TV Series (segmented),Male,Theft,,Heather North,,Casey Kasem,Don Messick
+277,ABC,Ghost of the Ancient Astronauts,6.9,36.0,1984-10-13,TV Series,Male,Treasure,Frank Welker,Heather North,Marla Scott,Casey Kasem,Don Messick
+278,ABC,The Night of Living Toys,7.2,23.0,1984-10-20,TV Series (segmented),Male,Treasure,,Heather North,,Casey Kasem,Don Messick
+279,ABC,South Pole Vault,7.2,23.0,1984-10-20,TV Series (segmented),Male,Competition,,Heather North,,Casey Kasem,Don Messick
+280,ABC,A Halloween Hassle at Dracula's Castle,8.0,47.0,1984-10-27,TV Series,Male,Theft,Frank Welker,Heather North,Marla Scott,Casey Kasem,Don Messick
+281,ABC,A Night Louse at the White House,7.5,26.0,1984-11-03,TV Series,Male,Theft,,Heather North,Marla Scott,Casey Kasem,Don Messick
+282,ABC,Showboat Scooby,7.3,27.0,1984-11-10,TV Series (segmented),Male,Treasure,,Heather North,,Casey Kasem,Don Messick
+284,ABC,Sherlock Doo,7.6,27.0,1984-11-17,TV Series,Male,Theft,Frank Welker,Heather North,,Casey Kasem,Don Messick
+285,ABC,A Scarey Duel with a Cartoon Ghoul,7.0,24.0,1984-11-24,TV Series (segmented),Male,Theft,,Heather North,,Casey Kasem,Don Messick
+286,ABC,E*I*E*I*O,7.0,24.0,1984-11-24,TV Series (segmented),Male,Competition,,Heather North,,Casey Kasem,Don Messick
+287,ABC,The Nutcracker Scoob,7.9,60.0,1984-12-01,TV Series,Male,Treasure,Frank Welker,Heather North,,Casey Kasem,Don Messick
+289,ABC,Scoobra Kadoobra,7.6,91.0,1985-09-14,TV Series,Male,Conquer,,Heather North,,Casey Kasem,Don Messick
+291,ABC,Reflections in the Ghoulish Eye,7.2,79.0,1985-09-28,TV Series,Male,Conquer,,Heather North,,Casey Kasem,Don Messick
+293,ABC,Ship of Ghouls,7.5,74.0,1985-10-12,TV Series,Male,Conquer,,Heather North,,Casey Kasem,Don Messick
+295,ABC,When You Witch Upon a Star,7.1,78.0,1985-10-26,TV Series,Female,Conquer,,Heather North,,Casey Kasem,Don Messick
+296,ABC,It's a Wonderful Scoob,7.4,77.0,1985-11-02,TV Series,Male,Conquer,,Heather North,,Casey Kasem,Don Messick
+297,ABC,Scooby in Kwacky Land,7.7,76.0,1985-11-09,TV Series,Male,Conquer,,Heather North,,Casey Kasem,Don Messick
+298,ABC,Coast-to-Ghost,7.4,71.0,1985-11-16,TV Series,Male,Conquer,,Heather North,,Casey Kasem,Don Messick
+299,ABC,The Ghouliest Show on Earth,7.4,77.0,1985-11-23,TV Series,Male,Conquer,,Heather North,,Casey Kasem,Don Messick
+300,ABC,Horror-Scope Scoob,7.4,77.0,1985-12-07,TV Series,Male,Conquer,,Heather North,,Casey Kasem,Don Messick
+301,Syndication,Scooby-Doo Meets the Boo Brothers,7.1,3727.0,1987-10-18,Movie,Male,Treasure,,,,Casey Kasem,Don Messick
+302,ABC,A Bicycle Built for Boo,7.3,68.0,1988-09-10,TV Series,Male,Counterfeit,Carl Steven,Kellie Martin,Christina Lange,Casey Kasem,Don Messick
+303,ABC,The Sludge Monster from the Earth's Core,7.5,58.0,1988-09-17,TV Series,Male,Theft,Carl Steven,Kellie Martin,Christina Lange,Casey Kasem,Don Messick
+304,ABC,The Schnoock Who Took My Comic Book,8.0,55.0,1988-09-24,TV Series,Male,Theft,Carl Steven,Kellie Martin,Christina Lange,Casey Kasem,Don Messick
+305,ABC,Wanted Cheddar Alive,7.5,61.0,1988-10-01,TV Series,Male,Competition,Carl Steven,Kellie Martin,Christina Lange,Casey Kasem,Don Messick
+306,ABC,For Letter or Worse,7.4,44.0,1988-10-08,TV Series,Male,Competition,Carl Steven,Kellie Martin,Christina Lange,Casey Kasem,Don Messick
+307,ABC,The Babysitter from Beyond,7.6,50.0,1988-10-15,TV Series,Male,Theft,Carl Steven,Kellie Martin,Christina Lange,Casey Kasem,Don Messick
+309,ABC,Snow Place Like Home,7.8,44.0,1988-10-22,TV Series,Male,Natural Resource,Carl Steven,Kellie Martin,Christina Lange,Casey Kasem,Don Messick
+310,ABC,"Now Museum, Now You Don't",7.7,47.0,1988-10-29,TV Series,Male,Theft,Carl Steven,Kellie Martin,Christina Lange,Casey Kasem,Don Messick
+311,ABC,Scooby Dude,7.0,47.0,1988-11-05,TV Series,Male,Smuggling,Carl Steven,Kellie Martin,Christina Lange,Casey Kasem,Don Messick
+312,ABC,Ghost Who's Coming to Dinner,7.5,53.0,1988-11-12,TV Series,Male,Competition,Carl Steven,Kellie Martin,Christina Lange,Casey Kasem,Don Messick
+314,ABC,The Story Stick,6.9,46.0,1988-11-19,TV Series,Male,Competition,Carl Steven,Kellie Martin,Christina Lange,Casey Kasem,Don Messick
+315,ABC,Robopup,7.2,44.0,1988-11-26,TV Series,Male,Theft,Carl Steven,Kellie Martin,Christina Lange,Casey Kasem,Don Messick
+316,ABC,Lights...Camera...Monster,7.5,45.0,1988-12-03,TV Series,Male,Theft,Carl Steven,Kellie Martin,Christina Lange,Casey Kasem,Don Messick
+317,ABC,Curse of the Collar,7.7,43.0,1989-09-09,TV Series,Male,Theft,Carl Steven,Kellie Martin,Christina Lange,Casey Kasem,Don Messick
+318,ABC,The Return of Commander Cool,7.7,43.0,1989-09-16,TV Series,Male,Theft,Carl Steven,Kellie Martin,Christina Lange,Casey Kasem,Don Messick
+319,ABC,The Spirit of Rock'n Roll,7.8,43.0,1989-09-23,TV Series,Male,Theft,Carl Steven,Kellie Martin,Christina Lange,Casey Kasem,Don Messick
+320,ABC,Chickenstein Lives,7.5,38.0,1989-09-30,TV Series,Male,Smuggling,Carl Steven,Kellie Martin,Christina Lange,Casey Kasem,Don Messick
+321,ABC,Night of the Living Burger,7.6,42.0,1989-10-07,TV Series,Male,Competition,Carl Steven,Kellie Martin,Christina Lange,Casey Kasem,Don Messick
+322,ABC,The Computer Walks Among Us,7.7,40.0,1989-10-14,TV Series,Male,Competition,Carl Steven,Kellie Martin,Christina Lange,Casey Kasem,Don Messick
+324,ABC,"Terror, Thy Name is Zombo",7.8,38.0,1989-10-28,TV Series,Male,Competition,Carl Steven,Kellie Martin,Christina Lange,Casey Kasem,Don Messick
+325,ABC,Night of the Boogey Biker,7.1,37.0,1990-09-08,TV Series (segmented),Male,Assistance,Carl Steven,Kellie Martin,Christina Lange,Casey Kasem,Don Messick
+326,ABC,Dawn of the Spooky Shuttle Scare,7.1,37.0,1990-09-08,TV Series (segmented),Male,Competition,Carl Steven,Kellie Martin,Christina Lange,Casey Kasem,Don Messick
+327,ABC,Horror of the Haunted Hairpiece,6.9,35.0,1990-10-06,TV Series,Male,Competition,Carl Steven,Kellie Martin,Christina Lange,Casey Kasem,Don Messick
+328,ABC,Wrestle Maniacs,7.2,38.0,1990-11-03,TV Series,Male,Competition,Carl Steven,Kellie Martin,Christina Lange,Casey Kasem,Don Messick
+329,ABC,The Were-Doo of Doo Manor,7.2,40.0,1991-08-03,TV Series,Male,Treasure,Carl Steven,Kellie Martin,Christina Lange,Casey Kasem,Don Messick
+331,ABC,The Ghost of Mrs. Shusham,6.6,37.0,1991-08-10,TV Series (segmented),Female,Theft,Carl Steven,Kellie Martin,Christina Lange,Casey Kasem,Don Messick
+333,ABC,Mayhem of the Moving Mollusk,7.2,32.0,1991-08-17,TV Series,Male,Competition,Carl Steven,Kellie Martin,Christina Lange,Casey Kasem,Don Messick
+335,Cartoon Network,Bravo Dooby-Doo,8.4,148.0,1997-07-25,Crossover,Male,Trespassing,Frank Welker,Heather North,B.J. Ward,Casey Kasem,Hadley Kay
+338,Cartoon Network,The Scooby-Doo Project,7.4,390.0,1999-10-31,TV Series,Male,Entertainment,Frank Welker,Marry Kay Bergman,B.J. Ward,Scott Innes,Scott Innes
+339,Warner Home Video,Scooby-Doo and the Alien Invaders,6.9,5625.0,2000-10-03,Movie,Male,Natural Resource,Frank Welker,Marry Kay Bergman,B.J. Ward,Scott Innes,Scott Innes
+340,Warner Home Video,Scooby-Doo and the Cyber Chase,7.0,6632.0,2001-10-09,Movie,Male,Competition,Frank Welker,Grey DeLisle,B.J. Ward,Scott Innes,Scott Innes
+341,Cartoon Network,Night of the Living Doo,7.2,256.0,2001-10-31,TV Series,Male,Competition,Frank Welker,Grey DeLisle,B.J. Ward,Scott Innes,Scott Innes
+343,Adult Swim,Shaggy Busted,8.1,133.0,2002-07-07,Crossover,Male,Competition,Frank Welker,Grey DeLisle,B.J. Ward,Scott Innes,Scott Innes
+344,The WB,There's No Creature Like Snow Creature,7.5,176.0,2002-09-14,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+345,The WB,3-D Struction,7.4,150.0,2002-09-21,TV Series,Male,Natural Resource,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+346,The WB,Space Ape and the Cape,7.6,151.0,2002-09-28,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+347,The WB,Big Scare in the Big Easy,7.7,142.0,2002-10-05,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+348,The WB,"It's Mean, It's Green, It's the Mystery Machine",7.6,144.0,2002-10-26,TV Series,Female,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+349,The WB,Riva Ras Regas,7.5,125.0,2002-11-02,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+350,The WB,Roller Ghoster Ride,7.7,133.0,2002-11-09,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+351,The WB,"Safari, So Goodie!",7.1,130.0,2002-11-23,TV Series,Male,Smuggling,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+352,The WB,She Sees Sea Monsters by the Sea Shore,7.1,122.0,2002-11-30,TV Series,Female,Preservation,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+353,The WB,A Scooby-Doo! Christmas,7.5,137.0,2002-12-13,TV Series,Male,Treasure,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+355,The WB,Lights! Camera! Mayhem!,7.5,115.0,2003-02-15,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+356,The WB,Pompii and Circumstance,7.1,110.0,2003-02-22,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+357,Warner Home Video,Scooby-Doo! and the Legend of the Vampire,6.6,4180.0,2003-03-04,Movie,Male,Competition,Frank Welker,Heather North,Nicole Jaffe,Casey Kasem,Frank Welker
+358,The WB,The Unnatural,7.3,110.0,2003-03-22,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+359,The WB,Big Appetite in Little Tokyo,7.2,112.0,2003-09-13,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+361,The WB,The Fast and the Wormious,7.4,104.0,2003-09-27,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+362,Warner Home Video,Scooby-Doo! and the Monster of Mexico,6.5,3462.0,2003-09-30,Movie,Male,Competition,Frank Welker,Heather North,Nicole Jaffe,Casey Kasem,Frank Welker
+364,The WB,The Vampire Strikes Back,7.4,105.0,2003-10-18,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+365,The WB,A Scooby-Doo Halloween,7.6,129.0,2003-10-25,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+366,The WB,Homeward Hound,7.2,97.0,2003-10-25,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+367,The WB,The San Franpsycho,7.3,103.0,2004-03-20,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+368,The WB,Simple Plan and the Invisible Madman,7.5,113.0,2004-03-22,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+369,The WB,Recipe for Disaster,7.5,109.0,2004-03-23,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+370,The WB,Large Dragon at Large,7.5,94.0,2004-03-24,TV Series,Male,Treasure,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+371,The WB,Uncle Scooby and Antarctica,7.4,99.0,2004-03-25,TV Series,Male,Preservation,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+372,The WB,"New Mexico, Old Monster",7.2,96.0,2004-03-26,TV Series,Male,Preservation,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+373,Warner Bros. Picture,Scooby-Doo 2: Monsters Unleashed,5.1,50847.0,2004-03-26,Movie (Theatrical),Male,Competition,Freddie Prinze Jr.,Sarah Michelle Gellar,Linda Cardellini,Matthew Lillard,Neil Fanning
+374,The WB,It's All Greek to Scooby,7.4,91.0,2004-03-27,TV Series,Male,Treasure,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+375,Warner Home Video,Scooby-Doo! and the Loch Ness Monster,6.7,4108.0,2004-06-24,Movie,Female,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+376,The WB,Fright House of a Lighthouse,8.0,128.0,2005-01-29,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+377,The WB,"Go West, Young Scoob",7.2,102.0,2005-02-05,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+378,Warner Home Video,"Aloha, Scooby-Doo!",6.4,3696.0,2005-02-08,Movie,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+380,The WB,Wrestle Maniacs,7.4,90.0,2005-02-12,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+381,The WB,Ready to Scare,7.5,89.0,2005-02-19,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+382,The WB,Farmed & Dangerous,7.3,101.0,2005-02-25,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+383,The WB,Diamonds Are a Ghoul's Best Friend,7.0,96.0,2005-03-03,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+384,The WB,A Terrifying Round with a Menacing Metallic Clown,7.6,105.0,2005-03-12,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+385,The WB,Camp Comeoniwannascareya,7.5,100.0,2005-03-19,TV Series,Male,Preservation,,,,Casey Kasem,Frank Welker
+386,The WB,Block-Long Hong Kong Terror,7.4,88.0,2005-03-26,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+387,The WB,"Gentlemen, Start Your Monsters!",7.3,87.0,2005-04-02,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+388,The WB,Gold Paw,7.4,84.0,2005-04-09,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+389,The WB,Reef Grief!,7.5,92.0,2005-04-19,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+391,Cartoon Network,E-Scream,7.4,91.0,2006-07-21,TV Series,Male,Simulation,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+393,The CW,Shags to Riches,6.1,29.0,2006-09-23,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Mindy Cohn,Scott Menville,Frank Welker
+395,The CW,High Society Scooby,6.0,22.0,2006-10-07,TV Series,Male,Conquer,,,,Scott Menville,Frank Welker
+396,The CW,Party Arty,5.9,19.0,2006-11-04,TV Series,Male,Abduction,,,,Scott Menville,Frank Welker
+397,The CW,Smart House,5.9,17.0,2006-11-11,TV Series,Male,Conquer,,,,Scott Menville,Frank Welker
+398,The CW,Lightning Strikes Twice,5.5,17.0,2006-11-18,TV Series,Male,Conquer,,,,Scott Menville,Frank Welker
+399,The CW,Don't Feed the Animals,5.8,18.0,2007-02-02,TV Series,Male,Treasure,,,,Scott Menville,Frank Welker
+400,The CW,Mysterty of the Missing Mystery Solvers,6.9,17.0,2007-02-10,TV Series,Male,Abduction,,,,Scott Menville,Frank Welker
+401,The CW,Chefs of Steel,5.1,16.0,2007-02-17,TV Series,Male,Competition,,,,Scott Menville,Frank Welker
+402,The CW,Almost Ghosts,6.1,20.0,2007-02-24,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Mindy Cohn,Scott Menville,Frank Welker
+403,The CW,Pole to Pole,6.1,14.0,2007-03-03,TV Series,Male,Conquer,,,,Scott Menville,Frank Welker
+404,The CW,Big Trouble,5.9,17.0,2007-04-28,TV Series,Male,Conquer,,,,Scott Menville,Frank Welker
+406,Cartoon Network,"Chill Out, Scooby-Doo!",6.7,2511.0,2007-08-31,Movie,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+407,The CW,Shaggy and Scooby World,5.3,15.0,2007-09-22,TV Series,Male,Conquer,,,,Scott Menville,Frank Welker
+408,The CW,Almost Purr-fect,5.2,16.0,2007-09-29,TV Series,Male,Theft,,,,Scott Menville,Frank Welker
+409,The CW,Inside Job,5.9,18.0,2007-10-06,TV Series,Male,Conquer,,,,Scott Menville,Frank Welker
+410,The CW,Zoinksman,5.5,14.0,2007-10-13,TV Series,Male,Conquer,,,,Scott Menville,Frank Welker
+411,The CW,The Many Faces of Evil,5.4,13.0,2007-11-03,TV Series,Male,Conquer,,,,Scott Menville,Frank Welker
+412,The CW,Crusin' for a Brusin',5.6,11.0,2007-11-10,TV Series,Male,Conquer,,,,Scott Menville,Frank Welker
+413,The CW,There's a Doctor in the House,5.5,11.0,2007-12-01,TV Series,Male,Conquer,,,,Scott Menville,Frank Welker
+414,The CW,Super Scary Movie Night,5.4,11.0,2008-01-26,TV Series,Male,Conquer,,,,Scott Menville,Frank Welker
+415,The CW,Runaway Robi,4.8,9.0,2008-02-02,TV Series,Male,Conquer,,,,Scott Menville,Frank Welker
+416,The CW,Don't Get a Big Head,4.6,9.0,2008-02-16,TV Series,Male,Conquer,,,,Scott Menville,Frank Welker
+417,The CW,Scooby Dudes,6.2,13.0,2008-02-23,TV Series,Male,Conquer,,,,Scott Menville,Frank Welker
+418,The CW,Zoinks the Wonder Dog,5.1,9.0,2008-03-08,TV Series,Male,Conquer,,,,Scott Menville,Frank Welker
+419,The CW,Uncle Albert Alert,5.8,9.0,2008-03-15,TV Series,Male,Conquer,,,,Scott Menville,Frank Welker
+420,Warner Home Video,Scooby-Doo! and the Goblin King,6.4,2285.0,2008-10-08,Movie,Male,Conquer,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+421,Warner Home Video,Scooby-Doo! and the Samurai Sword,6.5,2182.0,2009-04-07,Movie,Male,Conquer,Frank Welker,Grey DeLisle,Mindy Cohn,Casey Kasem,Frank Welker
+424,Cartoon Network,Beware the Beast From Below,7.9,337.0,2010-04-05,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+426,Cartoon Network,The Secret of the Ghost Rig,7.7,267.0,2010-07-26,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+427,Cartoon Network,Revenge of the Man Crab,7.7,255.0,2010-08-02,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+428,Cartoon Network,The Song of Mystery,8.0,254.0,2010-08-09,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+429,Cartoon Network,The Legend of Alice May,8.5,263.0,2010-08-16,TV Series,Female,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+430,Cartoon Network,In Fear of the Phantom,8.2,256.0,2010-08-23,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+431,Cartoon Network,The Grasp of the Gnome,7.8,229.0,2010-08-30,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+432,Cartoon Network,Battle of the Humungonauts,7.6,221.0,2010-09-07,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+434,Cartoon Network,Howl of the Fright Hound,8.2,235.0,2010-10-04,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+435,Cartoon Network,The Secret Serum,8.1,225.0,2010-10-11,TV Series,Female,Theft,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+436,Cartoon Network,The Shrieking Madness,8.4,246.0,2010-10-18,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+437,Cartoon Network,When the Cicada Calls,8.0,224.0,2010-10-25,TV Series,Male,Preservation,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+439,Cartoon Network,Mystery Solvers Club State Finals,8.2,254.0,2011-05-03,TV Series,Male,Imagination,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+440,Cartoon Network,The Wild Brood,7.7,221.0,2011-05-10,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+441,Cartoon Network,Where Walks Aphrodite,8.2,228.0,2011-05-17,TV Series,Female,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+442,Cartoon Network,Escape from Mystery Manor,8.8,250.0,2011-05-24,TV Series,Male,Preservation,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+443,Cartoon Network,The Dragon's Secret,8.2,211.0,2011-05-31,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+444,Cartoon Network,Nightfright,8.5,227.0,2011-06-07,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+445,Cartoon Network,The Siren's Song,8.1,203.0,2011-06-14,TV Series,Male,Natural Resource,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+446,Cartoon Network,Menace of the Manticore,8.2,212.0,2011-06-21,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+447,Cartoon Network,Attack of the Headless Horror,8.1,196.0,2011-06-28,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+448,Cartoon Network,A Haunting in Crystal Cove,8.6,211.0,2011-07-05,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+449,Cartoon Network,Dead Justice,8.2,194.0,2011-07-12,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+450,Cartoon Network,Pawn of Shadows,8.8,212.0,2011-07-19,TV Series,Female,Theft,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+451,Cartoon Network,All Fear the Freak,9.2,272.0,2011-07-26,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+452,Warner Home Video,Scooby-Doo! Legend of the Phantosaur,6.8,1899.0,2011-09-06,Movie,Male,Natural Resource,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+453,Warner Home Video,Scooby-Doo! Music of the Vampire,6.5,1573.0,2012-03-13,Movie,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+454,Warner Home Video,Scooby-Doo! Spooky Games,6.9,195.0,2012-07-17,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+455,Cartoon Network,The Night the Clown Cried,8.5,226.0,2012-07-30,TV Series,Male,,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+457,Cartoon Network,The Night the Clown Cried II - Tears of Doom,8.4,197.0,2012-08-01,TV Series,Male,Abduction,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+458,Cartoon Network,Web of the Dreamweaver!,8.2,192.0,2012-08-02,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+459,Cartoon Network,The Hodag of Horror,8.4,188.0,2012-08-03,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+460,Cartoon Network,Art of Darkness,7.7,177.0,2012-08-06,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+461,Cartoon Network,The Gathering Gloom,8.2,172.0,2012-08-07,TV Series,Male,Natural Resource,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+462,Cartoon Network,Night on Haunted Mountain,8.3,183.0,2012-08-08,TV Series,Female,Treasure,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+463,Cartoon Network,Grrim Judgment,8.3,176.0,2012-08-09,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+464,Cartoon Network,Night Terrors,9.1,202.0,2012-08-10,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+466,Cartoon Network,Scarebear,8.2,169.0,2012-08-14,TV Series,Male,Preservation,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+467,Cartoon Network,Wrath of the Krampus,8.9,207.0,2012-08-15,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+468,Cartoon Network,Heart of Evil,7.6,174.0,2012-08-16,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+469,Cartoon Network,Theater of Doom,8.6,180.0,2012-08-17,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+470,Warner Home Video,Big Top Scooby-Doo!,6.9,1442.0,2012-10-09,Movie,Male,Theft,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+471,Warner Home Video,Scooby-Doo! Haunted Holidays,7.0,392.0,2012-10-16,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+472,Warner Home Video,Scooby-Doo! Mask of the Blue Falcon,6.8,1485.0,2013-02-26,Movie,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+475,Cartoon Network,Dance of the Undead,8.0,180.0,2013-03-26,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+476,Cartoon Network,The Devouring,7.8,166.0,2013-03-27,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+477,Cartoon Network,Stand and Deliver,8.3,171.0,2013-03-28,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+479,Cartoon Network,Nightmare in Red,8.9,187.0,2013-04-02,TV Series,Male,Preservation,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+480,Cartoon Network,Dark Night of Hunters,8.4,165.0,2013-04-03,TV Series,Female,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+481,Cartoon Network,Gates of Gloom,8.7,169.0,2013-04-04,TV Series,Male,Treasure,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+482,Cartoon Network,Through the Curtain,9.0,184.0,2013-04-05,TV Series,Male,Conquer,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+483,Cartoon Network,Come Undone,9.3,260.0,2013-04-05,TV Series,Male,Conquer,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+484,Warner Home Video,Scooby-Doo Adventure: The Mystery Map!,5.1,294.0,2013-07-23,Movie,Male,Treasure,Frank Welker,Grey DeLisle,Stephanie D'Abruzzo,Matthew Lillard,Frank Welker
+485,Warner Home Video,Scooby-Doo! Stage Fright,7.1,1380.0,2013-08-20,Movie,Male,Theft,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+486,Warner Home Video,Scooby-Doo! and the Spooky Scarecrow,7.3,403.0,2013-09-10,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+487,Warner Home Video,Scooby-Doo! Mecha Mutt Menace,6.5,242.0,2013-09-24,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+488,Warner Home Video,Scooby-Doo! Wrestlemania Mystery,6.3,2825.0,2014-03-25,Movie,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+489,Warner Home Video,Scooby-Doo! Ghastly Goals!,6.6,216.0,2014-05-13,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+490,Warner Home Video,Scooby-Doo! Frankencreepy,6.7,1541.0,2014-08-19,Movie,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+491,Warner Home Video,Scooby-Doo! Moon Monster Madness,6.5,1269.0,2015-02-17,Movie,Male,Competition,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+492,Warner Home Video,Scooby-Doo! and the Beach Beastie,7.1,188.0,2015-05-05,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Mindy Cohn,Matthew Lillard,Frank Welker
+494,Cartoon Network,Mystery 101,7.9,122.0,2015-10-05,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+495,Cartoon Network,Game of Chicken,7.2,102.0,2015-10-06,TV Series,Male,Treasure,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+496,Cartoon Network,All Pawns on Deck,7.4,101.0,2015-10-07,TV Series,Male,Treasure,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+497,Cartoon Network,Poodle Justice,7.3,85.0,2015-10-08,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+498,Cartoon Network,Grand Scam,7.3,78.0,2015-10-09,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+499,Cartoon Network,Trading Chase,7.6,80.0,2015-10-12,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+500,Cartoon Network,"Be Quiet, Scooby-Doo!",7.5,84.0,2015-10-15,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+501,Cartoon Network,Party Like It's 1899,8.2,88.0,2015-10-19,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+502,Cartoon Network,Screama Donna,7.4,72.0,2015-10-20,TV Series,Female,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+503,Cartoon Network,Kitchen Frightmare,7.5,75.0,2015-10-21,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+504,Cartoon Network,"Me, Myself, and A.I.",7.5,72.0,2015-10-22,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+505,Cartoon Network,Area 51 Adjacent,7.4,71.0,2015-10-23,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+506,Cartoon Network,"Where There's a Will, There's a Wraith",7.5,81.0,2015-10-28,TV Series,Male,Inheritance,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+507,Cartoon Network,Scooby-Doo! Knight Time Terror,6.6,288.0,2015-11-25,TV Series,Male,Treasure,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+508,Cartoon Network,Scary Christmas,7.4,75.0,2015-12-05,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+509,Cartoon Network,"If You Can't Scooby-Doo the Time,Don't Scooby-Doo the Crime",7.7,72.0,2015-12-10,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+510,Cartoon Network,Gremlin on a Plane,7.8,66.0,2016-02-13,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+511,Cartoon Network,Sorcerer Snacks Scare,7.9,67.0,2016-02-20,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+512,Cartoon Network,Saga of the Swamp Beast,8.2,67.0,2016-02-27,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+513,Cartoon Network,"Be Cold, Scooby-Doo!",7.5,63.0,2016-03-05,TV Series,Male,Preservation,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+514,Warner Home Video,LEGO Scooby-Doo! Haunted Hollywood,5.9,1144.0,2016-03-10,Movie,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+515,Cartoon Network,Giant Problems,7.4,58.0,2016-03-12,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+516,Boomerang,Eating Crow,7.4,54.0,2016-03-23,TV Series,Male,Natural Resource,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+517,Warner Home Video,Scooby-Doo! and WWE: Curse of the Speed Demon,6.2,1179.0,2016-08-09,Movie,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+518,Warner Home Video,Scooby-Doo! Shaggy's Showdown,6.8,1120.0,2017-02-14,Movie,Male,Theft,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+519,Boomerang,I Scooby Dooby Do,7.2,58.0,2017-06-20,TV Series,Female,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+520,Boomerang,El Bandito,7.6,52.0,2017-06-20,TV Series,Male,Treasure,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+521,Boomerang,Into the Mouth Madcap,7.2,50.0,2017-06-20,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+522,Boomerang,The Norse Case Scenario,7.3,48.0,2017-06-20,TV Series,Male,Natural Resource,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+523,Boomerang,The People vs. Fred Jones,7.7,50.0,2017-06-20,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+525,Boomerang,Some Fred Time,8.2,53.0,2017-11-14,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+526,Boomerang,There Wolf,7.5,40.0,2017-11-15,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+527,Boomerang,Renn Scare,7.4,40.0,2017-11-15,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+528,Boomerang,How to Train Your Coward,7.6,42.0,2017-12-21,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+529,Boomerang,Worst in Show,7.1,38.0,2017-11-17,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+532,Boomerang,The Curse of Kaniaku,7.5,39.0,2017-11-19,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+533,Boomerang,Vote Velma,6.6,40.0,2017-11-19,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+535,Boomerang,In Space,8.0,44.0,2017-11-20,TV Series,Male,Natural Resource,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+536,Boomerang,Doo Not Distrub,7.9,50.0,2017-11-21,TV Series,Female,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+537,Boomerang,Silver Scream,7.4,38.0,2017-11-22,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+538,Boomerang,Fright of Hand,7.2,35.0,2017-11-22,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+539,Boomerang,Greece in the World,6.7,35.0,2017-11-23,TV Series,Female,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+540,Cartoon Network,Batman: The Brave and the Bold: Bat-Mite Presents: Batman's Strangest Cases!,6.6,1698.0,2018-01-09,Movie,Male,Conquer,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+541,Boomerang,American Goth,7.1,41.0,2018-03-08,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+542,Boomerang,Omelettes Are Forever,7.2,31.0,2018-03-09,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+543,Boomerang,Ghost in the Mystery Machine,7.4,36.0,2018-03-10,TV Series,Female,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+544,Boomerang,Naughty or Ice,7.4,38.0,2018-03-11,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+545,Boomerang,Night of the Upsetting Shorts,7.3,39.0,2018-03-12,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+546,Boomerang,Junkyard Dogs,6.9,37.0,2018-03-13,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+547,Boomerang,Protein Titans 2,6.7,33.0,2018-03-14,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+548,Boomerang,World of Witchcraft,6.9,33.0,2018-03-15,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+549,Boomerang,Professor Huh? Part 1,7.8,37.0,2018-03-16,TV Series,Male,,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+550,Boomerang,Professor Huh? Part 6 3/4,7.9,36.0,2018-03-17,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+551,Boomerang,Pizza O'Possumm's,6.8,31.0,2018-03-18,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+552,Boomerang,The Curse of Half-Beard's Booty,6.8,31.0,2018-03-18,TV Series,Male,Treasure,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+553,The CW,Scoobynatural,9.6,6929.0,2018-03-29,Crossover,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+555,Warner Home Video,Scooby-Doo! and the Gourmet Ghost,7.3,825.0,2018-09-11,Movie,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+556,Cartoon Network,Monster Party,8.1,26.0,2018-10-01,Crossover,Male,,,,,,
+557,Warner Home Video,Scooby-Doo! and the Curse of the 13th Ghost,6.5,1182.0,2019-02-05,Movie,Male,Treasure,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+558,Boomerang,Revenge of the Swamp Monster,7.0,126.0,2019-06-27,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+559,Boomerang,A Mystery Solving Gang Divided,7.9,93.0,2019-07-02,TV Series,Male,Treasure,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+560,Boomerang,Peebles' Pet Show of Terrible Terrors!,7.9,79.0,2019-07-11,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+561,Boomerang,"Elementary, My Dear Shaggy!",8.1,78.0,2019-07-18,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+563,Boomerang,Ollie Ollie In-Come Free!,7.3,84.0,2019-07-25,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+564,Boomerang,The Scooby of a Thousand Faces!,8.1,74.0,2019-08-01,TV Series,Male,Treasure,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+565,Boomerang,The Cursed Cabinet of Professor Madds Markson,8.3,70.0,2019-08-08,TV Series,Male,Entertainment,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+566,Boomerang,When Urkel-Bots Go Bad!,6.5,74.0,2019-08-15,TV Series,Male,Natural Resource,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+567,Boomerang,The Fastest Food Fiend!,7.5,52.0,2019-08-22,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+568,Boomerang,Attack of the Weird Al-Osaurus!,7.5,61.0,2019-08-29,TV Series,Male,Natural Resource,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+569,Boomerang,"Now You Sia, Now You Don't!",7.4,59.0,2019-09-05,TV Series,Female,Theft,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+570,Boomerang,Quit Clowning!,7.4,47.0,2019-09-12,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+571,Boomerang,"What a Night, for a Dark Knight",8.7,84.0,2019-09-19,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+572,Cartoon Network,Cartoon Feud,6.4,38.0,2019-10-04,Crossover,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+573,Warner Bros. Picture,SCOOB!,5.7,20226.0,2020-05-15,Movie (Theatrical),Male,Treasure,Zac Efron,Amanda Seyfried,Gina Rodriuez,Will Forte,Frank Welker
+574,Boomerang,The Nightmare Ghost of Psychic U!,8.1,38.0,2020-07-02,TV Series,Male,Inheritance,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+575,Boomerang,"The Sword, the Fox and the Scooby-Doo!",8.8,35.0,2020-07-02,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+577,Boomerang,Hollywood Knights!,8.1,25.0,2020-07-02,TV Series,Male,Inheritance,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+578,Boomerang,The New York Underground!,7.8,27.0,2020-07-02,TV Series,Male,Treasure,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+579,Boomerang,Fear the Fire Beast!,7.7,23.0,2020-07-02,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+580,Boomerang,Too Many Dummies!,8.2,28.0,2020-07-02,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+581,Boomerang,Dance Matron of Mayhem,7.6,22.0,2020-07-02,TV Series,Female,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+582,Boomerang,The Wedding Witch of Wainsly Hall!,8.6,19.0,2020-07-02,TV Series,Female,Theft,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+583,Boomerang,A Run Cycle Through Time!,7.9,21.0,2020-07-02,TV Series,Male,Simulation,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+584,Boomerang,I Put a Hex on You!,8.4,25.0,2020-07-02,TV Series,Female,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+585,Boomerang,The High School Wolfman's Musical Lament!,7.6,27.0,2020-07-02,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+586,Boomerang,Space Station Scooby,8.2,24.0,2020-07-02,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+587,Boomerang,"The Phantom, the Talking Dog and the Hot Hot Hot Sauce!",,,2020-10-01,TV Series,Male,Treasure,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+588,Boomerang,The Last Inmate!,,,2020-10-01,TV Series,Male,Treasure,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+589,Boomerang,The Horrible Haunted Hospital of Dr. Phineas Phrag!,,,2020-10-01,TV Series,Male,Natural Resource,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+590,Boomerang,The Hot Dog Dog!,,,2020-10-01,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+591,Boomerang,A Moveable Mystery!,,,2020-10-01,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+592,Boomerang,The Feast of Dr. Frankenfooder!,,,2020-10-01,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+593,Boomerang,A Fashion Nightmare,,,2020-10-01,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+594,Boomerang,Scooby on Ice!,,,2020-10-01,TV Series,Male,Natural Resource,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+595,Boomerang,Caveman on the Half-Pipe,,,2020-10-01,TV Series,Male,Treasure,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+596,Boomerang,The Crown Jewel of Boxing!,,,2020-10-01,TV Series,Male,Treasure,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+597,Boomerang,The Internet on Haunted House Hill!,,,2020-10-01,TV Series,Male,Treasure,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+598,Boomerang,The 7th Inning Scare!,,,2020-10-01,TV Series,Male,Entertainment,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+599,Boomerang,The Dreaded Remake of Jekyll & Hyde!,,,2020-10-01,TV Series,Male,Theft,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+600,Warner Home Video,"Happy Halloween, Scooby-Doo!",6.3,978.0,2020-10-06,Movie,Male,Natural Resource,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+602,Boomerang,Dark Diner of Route 66!,,,2021-02-25,TV Series,Male,Treasure,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
+603,Boomerang,Total Jeopardy!,,,2020-11-13,TV Series,Male,Competition,Frank Welker,Grey DeLisle,Kate Micucci,Matthew Lillard,Frank Welker
