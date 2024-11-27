@@ -1,0 +1,442 @@
+index,network,title,imdb,engagement,format,monster_gender,motive
+1,CBS,What a Night for a Knight,8.1,556.0,TV Series,Male,Theft
+2,CBS,A Clue for Scooby Doo,8.1,479.0,TV Series,Male,Theft
+3,CBS,Hassle in the Castle,8.0,455.0,TV Series,Male,Treasure
+4,CBS,Mine Your Own Business,7.8,426.0,TV Series,Male,Natural Resource
+5,CBS,Decoy for a Dognapper,7.5,391.0,TV Series,Female,Competition
+6,CBS,What the Hex Going On?,8.4,384.0,TV Series,Male,Extortion
+7,CBS,Never Ape an Ape Man,7.6,358.0,TV Series,Male,Competition
+8,CBS,Foul Play in Funland,8.2,358.0,TV Series,Male,Safety
+9,CBS,The Backstage Rage,8.1,371.0,TV Series,Male,Counterfeit
+10,CBS,Bedlam in the Big Top,8.0,346.0,TV Series,Male,Competition
+11,CBS,A Gaggle of Galloping Ghosts,8.5,379.0,TV Series,Male,Treasure
+12,CBS,"Scooby-Doo and a Mummy, Too",8.2,358.0,TV Series,Male,Theft
+13,CBS,Go Away Ghost Ship,8.1,331.0,TV Series,Male,Theft
+14,CBS,Spooky Space Kook,8.4,372.0,TV Series,Male,Competition
+15,CBS,A Night of Fright Is No Delight,8.7,403.0,TV Series,Male,Inheritance
+16,CBS,That's Snow Ghost,8.0,328.0,TV Series,Male,Theft
+17,CBS,Nowhere to Hyde,8.3,322.0,TV Series,Male,Theft
+18,CBS,Mystery Mask Mix-Up,7.8,312.0,TV Series,Male,Smuggling
+19,CBS,Scooby's Night with a Frozen Fright,7.7,301.0,TV Series,Male,Theft
+20,CBS,"Jeepers, It's the Creeper",8.5,347.0,TV Series,Male,Theft
+21,CBS,Haunted House Hang-Up,8.4,303.0,TV Series,Male,Treasure
+22,CBS,Who's Afraid of the Big Bad Werewolf?,8.2,292.0,TV Series,Male,Smuggling
+23,CBS,Don't Fool with a Phantom,7.9,282.0,TV Series,Male,Theft
+24,CBS,The Dynamic Scooby-Doo Affair,7.8,232.0,TV Series,Male,Counterfeit
+25,CBS,Wednesday Is Missing,7.9,119.0,TV Series,Female,Safety
+26,CBS,The Frickert Fracas,7.9,116.0,TV Series,Male,Treasure
+27,CBS,Guess Who's Knott Coming to Dinner?,7.9,111.0,TV Series,Male,Inheritance
+28,CBS,A Good Medium Is Rare,7.7,88.0,TV Series,Male,Theft
+29,CBS,Sandy Duncan's Jekyll and Hyde,7.8,90.0,TV Series,Male,Preservation
+30,CBS,The Secret of Shark Island,8.5,109.0,TV Series,Male,Treasure
+31,CBS,The Ghost of Bigfoot,8.3,118.0,TV Series,Male,Theft
+32,CBS,The Ghost of the Red Baron,7.6,86.0,TV Series,Male,Competition
+33,CBS,The Ghostly Creep from the Deep,7.4,90.0,TV Series,Male,Natural Resource
+34,CBS,The Haunted Horseman of Hagglethorn Hall,7.8,86.0,TV Series,Male,Competition
+35,CBS,The Phantom of the Country Music Hall,7.6,81.0,TV Series,Male,Theft
+36,CBS,The Caped Crusader Caper,7.2,183.0,TV Series,Male,Theft
+37,CBS,The Lochness Mess,7.9,114.0,TV Series,Male,Treasure
+38,CBS,The Mystery of Haunted Island,7.4,103.0,TV Series,Male,Competition
+39,CBS,The Haunted Showboat,7.9,82.0,TV Series,Male,Counterfeit
+40,CBS,Mystery in Persia,7.5,82.0,TV Series,Male,Competition
+41,CBS,The Spirited Spooked Sports Show,7.4,73.0,TV Series,Male,Competition
+42,CBS,The Exterminator,7.6,85.0,TV Series,Male,Competition
+43,CBS,The Weird Winds of Winona,7.3,91.0,TV Series,Male,Competition
+44,CBS,The Haunted Candy Factory,7.8,104.0,TV Series,Male,Smuggling
+45,CBS,The Haunted Carnival,7.6,92.0,TV Series,Male,Competition
+46,ABC,Everyone Hyde!,7.2,12.0,Crossover,Male,Theft
+47,ABC,The Fiesta Host is an Aztec Ghost,7.4,97.0,TV Series,Male,Treasure
+48,ABC,"What Now, Lowbrow?",6.9,11.0,Crossover,Male,Theft
+49,ABC,The Gruesome Game of the Gator Ghoul,7.5,95.0,TV Series,Male,Competition
+50,ABC,Whatta Shocking Ghost,8.0,101.0,TV Series,Male,Competition
+51,ABC,The Headless Horseman of Halloween,8.0,127.0,TV Series,Male,Theft
+52,ABC,Scared a Lot in Camelot,7.6,93.0,TV Series,Male,Theft
+53,ABC,The Harum-Scarum Sanitarium,8.2,99.0,TV Series,Male,Smuggling
+54,ABC,The No-Face Zombie Chase Case,7.7,91.0,TV Series,Male,Theft
+55,ABC,A Frightened Hound Meets Demons Underground,7.4,84.0,TV Series,Male,Theft
+56,ABC,The Wizard of Ooze,6.3,7.0,Crossover,Male,Theft
+57,ABC,A Bum Steer for Scooby,6.8,84.0,TV Series,Male,Theft
+58,ABC,There's a Demon Shark in the Foggy Dark,7.2,80.0,TV Series,Male,Smuggling
+59,ABC,"Scooby-Doo, Where's the Crew?",7.3,77.0,TV Series,Male,Treasure
+60,ABC,The Ghost That Sacked the Quarterback,6.8,75.0,TV Series,Male,Competition
+61,ABC,The Ghost of the Bad Humor Man,7.7,84.0,TV Series,Male,Theft
+62,ABC,The Spirits of '76,7.5,81.0,TV Series,Male,Counterfeit
+63,ABC,The Curse of the Viking Lake,7.4,71.0,TV Series,Male,Natural Resource
+64,ABC,Vampire Bats and Scaredy Cats,8.2,104.0,TV Series,Male,Competition
+65,ABC,"Hang in There, Scooby-Doo",7.4,76.0,TV Series,Male,Theft
+66,ABC,The Chiller Diller Movie Thriller,7.9,77.0,TV Series,Male,Competition
+67,ABC,The Spooky Case of the Grand Prix Race,7.4,75.0,TV Series,Male,Theft
+68,ABC,Creepy Cruise,7.7,78.0,TV Series,Male,Theft
+69,ABC,The Creepy Heap from the Deep,7.4,71.0,TV Series,Male,Smuggling
+70,ABC,Watch Out! The Willawa!,7.5,96.0,TV Series,Male,Smuggling
+71,ABC,A Creepy Tangle in the Bermuda Triangle,7.3,101.0,TV Series,Male,Theft
+72,ABC,A Scary Night with a Snow Beast Fright,7.1,98.0,TV Series,Male,Natural Resource
+73,ABC,To Switch a Witch,8.0,107.0,TV Series,Female,Inheritance
+74,ABC,The Tar Monster,7.6,92.0,TV Series,Male,Treasure
+75,ABC,The Creepy Case of Old Iron Face,7.7,80.0,TV Series,Male,Smuggling
+76,ABC,"Jeepers, It's the Jaguaro!",7.2,91.0,TV Series,Male,Natural Resource
+77,ABC,Make a Beeline Away from that Feline,8.0,88.0,TV Series,Male,Theft
+78,ABC,The Creepy Creature of Vulture's Claw,7.5,80.0,TV Series,Male,Natural Resource
+79,ABC,The Diabolical Disc Demon,7.5,84.0,TV Series,Male,Smuggling
+80,ABC,Scooby's Chinese Fortune Kooky Caper,7.5,85.0,TV Series,Male,Theft
+81,ABC,A Menace in Venice,7.5,92.0,TV Series,Male,Treasure
+82,ABC,Don't Go Near the Fortress of Fear,7.2,83.0,TV Series,Male,Treasure
+83,ABC,The Warlock of Wimbledon,6.8,84.0,TV Series,Male,Competition
+84,ABC,The Beast is Awake in Bottomless Lake,7.1,84.0,TV Series,Male,Smuggling
+85,ABC,The Scarab Lives!,7.6,67.0,TV Series,Male,Competition
+86,ABC,The Night Ghoul of Wonderworld,7.6,59.0,TV Series,Male,Theft
+87,ABC,Strange Encounters of a Scooby Kind,7.6,54.0,TV Series,Male,Smuggling
+88,ABC,The Neon Phantom of the Roller Disco!,7.4,55.0,TV Series,Male,Competition
+89,ABC,"Shiver and Shake, That Demon's a Snake",7.5,51.0,TV Series,Male,Smuggling
+90,ABC,The Scary Sky Skeleton,7.4,51.0,TV Series,Male,Natural Resource
+91,ABC,The Demon of the Dugout,7.5,51.0,TV Series,Male,Theft
+92,ABC,The Hairy Scare of the Devil Bear,7.3,53.0,TV Series,Male,Treasure
+93,ABC,Twenty Thousand Screams Under the Sea,7.6,47.0,TV Series,Male,Treasure
+94,ABC,I Left My Neck in San Francisco,8.0,52.0,TV Series,Female,Theft
+95,ABC,When You Wish Upon a Star Creature,7.2,48.0,TV Series,Male,Theft
+96,ABC,"The Ghoul, the Bat and the Ugly",7.7,52.0,TV Series,Male,Theft
+97,ABC,Rocky Mountain Yiiiii!,7.5,48.0,TV Series,Male,Treasure
+98,ABC,The Sorcerer's a Menace,7.3,47.0,TV Series,Male,Theft
+99,ABC,"Lock the Door, It's a Minotaur!",7.5,46.0,TV Series,Male,Treasure
+100,ABC,A Close Encounter with a Strange Kind,7.1,35.0,TV Series (segmented),Male,Experimentation
+101,ABC,A Fit Night Out for Bats,7.1,35.0,TV Series (segmented),Male,Food
+102,ABC,The Chinese Food Factory,7.1,35.0,TV Series (segmented),Male,Theft
+103,ABC,Scooby's Desert Dilemma,7.2,36.0,TV Series (segmented),Male,Experimentation
+104,ABC,The Old Cat and Mouse Game,7.2,37.0,TV Series (segmented),Male,Food
+105,ABC,Mummy's the Word,7.2,36.0,TV Series (segmented),Male,Trespassing
+106,ABC,Scooby's Fantastic Island,7.1,31.0,TV Series (segmented),Male,Assistance
+107,ABC,Long John Scrappy,6.8,32.0,TV Series (segmented),Male,Abduction
+108,ABC,Swamp Witch,6.7,36.0,TV Series (segmented),Female,Food
+109,ABC,Sir Scooby and the Black Knight,7.0,29.0,TV Series (segmented),Male,Trespassing
+110,ABC,Waxworld,6.7,36.0,TV Series (segmented),Male,Abduction
+111,ABC,South Seas Scare,7.0,32.0,TV Series (segmented),Male,Trespassing
+112,ABC,Alaskan King Coward,7.0,32.0,TV Series (segmented),Male,Food
+113,ABC,"Et Tu, Scoob?",6.7,29.0,TV Series (segmented),Male,Competition
+114,ABC,Soggy Bog Scooby,6.7,29.0,TV Series (segmented),Male,Food
+115,ABC,Moonlight Madness,7.0,32.0,TV Series (segmented),Male,Loneliness
+116,ABC,Scooby at the Center of the World,7.1,31.0,TV Series (segmented),Male,Trespassing
+117,ABC,Scooby's Trip to Ahz,7.1,31.0,TV Series (segmented),Female,Imagination
+118,ABC,A Fright at the Opera,7.2,31.0,TV Series (segmented),Male,Trespassing
+119,ABC,Robot Ranch,7.1,31.0,TV Series (segmented),Male,Abduction
+120,ABC,Surprised Spies,7.1,31.0,TV Series (segmented),Male,Theft
+121,ABC,The Invasion of the Scooby Snatchers,7.2,31.0,TV Series (segmented),Male,Conquer
+122,ABC,Scooby-Nocchio,7.4,32.0,TV Series (segmented),Male,Imagination
+123,ABC,Lighthouse Keeper Scooby,7.4,32.0,TV Series (segmented),Male,Trespassing
+124,ABC,Scooby's Roots,7.4,32.0,TV Series (segmented),Male,Mistake
+125,ABC,Scooby's Escape from Atlantis,7.2,30.0,TV Series (segmented),Male,Trespassing
+126,ABC,Excalibur Scooby,7.2,30.0,TV Series (segmented),Male,Assistance
+127,ABC,Scooby Saves the World,7.1,27.0,TV Series (segmented),Male,Conquer
+128,ABC,Rickshaw Scooby,7.1,29.0,TV Series (segmented),Male,Trespassing
+129,ABC,Scooby's Luck of the Irish,7.2,30.0,TV Series (segmented),Male,Trespassing
+130,ABC,Scooby's House of Mystery,7.1,27.0,TV Series (segmented),Female,Experimentation
+131,ABC,Sweet Dreams Scooby,7.1,27.0,TV Series (segmented),Male,Imagination
+132,ABC,Scooby-Doo 2000,7.1,29.0,TV Series (segmented),Male,Automated
+133,ABC,Punk Rock Scooby,7.1,29.0,TV Series (segmented),Male,Abduction
+134,ABC,Canine to Five,7.4,27.0,TV Series (segmented),Male,Food
+135,ABC,Hard Hat Scooby,7.1,27.0,TV Series (segmented),Male,Food
+136,ABC,Hothouse Scooby,7.1,29.0,TV Series (segmented),Male,Food
+137,ABC,Tenderbigfoot,7.1,32.0,TV Series (segmented),Male,Theft
+138,ABC,Scooby and the Beanstalk,7.1,32.0,TV Series (segmented),Male,Food
+139,ABC,Catfish Burglar Caper,7.1,24.0,TV Series (segmented),Male,Theft
+140,ABC,Comic Book Caper,7.4,23.0,TV Series (segmented),Male,Theft
+141,ABC,Scooby-Doo and Genie-Poo,7.1,25.0,TV Series (segmented),Female,Abduction
+142,ABC,Captain Canine Caper,7.2,23.0,TV Series (segmented),Male,Extortion
+143,ABC,The Incredible Cat Lady Caper,7.0,23.0,TV Series (segmented),Female,Theft
+144,ABC,One Million Years Before Lunch,7.1,24.0,TV Series (segmented),Male,Abduction
+145,ABC,Where's the Wolf,7.4,24.0,TV Series (segmented),Male,Food
+146,ABC,Snow Job Too Small,6.8,26.0,TV Series (segmented),Male,Inheritance
+147,ABC,Scooby the Barbarian,7.4,27.0,TV Series (segmented),Male,Theft
+148,ABC,No Sharking Zone,7.4,27.0,TV Series (segmented),Male,Treasure
+149,ABC,The Quagmire Quake Caper,7.5,21.0,TV Series (segmented),Male,Theft
+150,ABC,Hound of the Scoobyvilles,7.5,17.0,TV Series (segmented),Male,Inheritance
+151,ABC,The Dinosaur Deception,7.5,17.0,TV Series (segmented),Male,Treasure
+152,ABC,The Creature Came from The Chemlab,7.7,20.0,TV Series (segmented),Male,Theft
+153,ABC,"No Thanks, Masked Manx",7.7,20.0,TV Series (segmented),Male,Theft
+154,ABC,Scooby of the Jungle,7.2,18.0,TV Series (segmented),Male,Smuggling
+155,ABC,Scooby Roo,7.5,15.0,TV Series (segmented),Male,Natural Resource
+156,ABC,Wizards and Warlocks,7.3,15.0,TV Series (segmented),Male,Competition
+157,ABC,Scoobsie,7.3,15.0,TV Series (segmented),Male,Competition
+158,ABC,The Crazy Carnival Caper,7.1,17.0,TV Series (segmented),Male,Theft
+159,ABC,Scooby and the Minotaur,7.4,18.0,TV Series (segmented),Male,Treasure
+160,ABC,Scooby Pinch Hits,7.4,18.0,TV Series (segmented),Male,Competition
+161,ABC,The Fall Dog,7.2,20.0,TV Series (segmented),Male,Competition
+162,ABC,The Scooby Coupe,7.2,20.0,TV Series (segmented),Male,Competition
+163,ABC,Scooby ala Mode,6.5,21.0,TV Series (segmented),Male,Competition
+164,ABC,Where's Scooby-Doo?,6.5,19.0,TV Series,Male,Smuggling
+165,ABC,Wedding Bell Boos!,6.5,23.0,TV Series,Male,Treasure
+166,ABC,"Happy Birthday, Scooby-Doo",7.2,45.0,TV Series,Male,Theft
+167,ABC,Scooby's Peep-Hole Pandemonium,7.2,29.0,TV Series (segmented),Female,Theft
+168,ABC,The Hand of Horror,7.2,29.0,TV Series (segmented),Male,Theft
+169,ABC,Scoo-Be or Not Scoo-Be?,7.5,29.0,TV Series (segmented),Male,Natural Resource
+170,ABC,The Stoney Glare Stare,7.5,29.0,TV Series (segmented),Male,Treasure
+171,ABC,Mission: Un-Doo-Able,7.0,26.0,TV Series (segmented),Male,Conquer
+172,ABC,The Bee Team,7.0,26.0,TV Series (segmented),Male,Competition
+173,ABC,Doom Service,7.1,24.0,TV Series (segmented),Male,Theft
+174,ABC,Ghost of the Ancient Astronauts,6.9,36.0,TV Series,Male,Treasure
+175,ABC,The Night of Living Toys,7.2,23.0,TV Series (segmented),Male,Treasure
+176,ABC,South Pole Vault,7.2,23.0,TV Series (segmented),Male,Competition
+177,ABC,A Halloween Hassle at Dracula's Castle,8.0,47.0,TV Series,Male,Theft
+178,ABC,A Night Louse at the White House,7.5,26.0,TV Series,Male,Theft
+179,ABC,Showboat Scooby,7.3,27.0,TV Series (segmented),Male,Treasure
+180,ABC,Sherlock Doo,7.6,27.0,TV Series,Male,Theft
+181,ABC,A Scarey Duel with a Cartoon Ghoul,7.0,24.0,TV Series (segmented),Male,Theft
+182,ABC,E*I*E*I*O,7.0,24.0,TV Series (segmented),Male,Competition
+183,ABC,The Nutcracker Scoob,7.9,60.0,TV Series,Male,Treasure
+184,ABC,Scoobra Kadoobra,7.6,91.0,TV Series,Male,Conquer
+185,ABC,Reflections in the Ghoulish Eye,7.2,79.0,TV Series,Male,Conquer
+186,ABC,Ship of Ghouls,7.5,74.0,TV Series,Male,Conquer
+187,ABC,When You Witch Upon a Star,7.1,78.0,TV Series,Female,Conquer
+188,ABC,It's a Wonderful Scoob,7.4,77.0,TV Series,Male,Conquer
+189,ABC,Scooby in Kwacky Land,7.7,76.0,TV Series,Male,Conquer
+190,ABC,Coast-to-Ghost,7.4,71.0,TV Series,Male,Conquer
+191,ABC,The Ghouliest Show on Earth,7.4,77.0,TV Series,Male,Conquer
+192,ABC,Horror-Scope Scoob,7.4,77.0,TV Series,Male,Conquer
+193,Syndication,Scooby-Doo Meets the Boo Brothers,7.1,3727.0,Movie,Male,Treasure
+194,ABC,A Bicycle Built for Boo,7.3,68.0,TV Series,Male,Counterfeit
+195,ABC,The Sludge Monster from the Earth's Core,7.5,58.0,TV Series,Male,Theft
+196,ABC,The Schnoock Who Took My Comic Book,8.0,55.0,TV Series,Male,Theft
+197,ABC,Wanted Cheddar Alive,7.5,61.0,TV Series,Male,Competition
+198,ABC,For Letter or Worse,7.4,44.0,TV Series,Male,Competition
+199,ABC,The Babysitter from Beyond,7.6,50.0,TV Series,Male,Theft
+200,ABC,Snow Place Like Home,7.8,44.0,TV Series,Male,Natural Resource
+201,ABC,"Now Museum, Now You Don't",7.7,47.0,TV Series,Male,Theft
+202,ABC,Scooby Dude,7.0,47.0,TV Series,Male,Smuggling
+203,ABC,Ghost Who's Coming to Dinner,7.5,53.0,TV Series,Male,Competition
+204,ABC,The Story Stick,6.9,46.0,TV Series,Male,Competition
+205,ABC,Robopup,7.2,44.0,TV Series,Male,Theft
+206,ABC,Lights...Camera...Monster,7.5,45.0,TV Series,Male,Theft
+207,ABC,Curse of the Collar,7.7,43.0,TV Series,Male,Theft
+208,ABC,The Return of Commander Cool,7.7,43.0,TV Series,Male,Theft
+209,ABC,The Spirit of Rock'n Roll,7.8,43.0,TV Series,Male,Theft
+210,ABC,Chickenstein Lives,7.5,38.0,TV Series,Male,Smuggling
+211,ABC,Night of the Living Burger,7.6,42.0,TV Series,Male,Competition
+212,ABC,The Computer Walks Among Us,7.7,40.0,TV Series,Male,Competition
+213,ABC,"Terror, Thy Name is Zombo",7.8,38.0,TV Series,Male,Competition
+214,ABC,Night of the Boogey Biker,7.1,37.0,TV Series (segmented),Male,Assistance
+215,ABC,Dawn of the Spooky Shuttle Scare,7.1,37.0,TV Series (segmented),Male,Competition
+216,ABC,Horror of the Haunted Hairpiece,6.9,35.0,TV Series,Male,Competition
+217,ABC,Wrestle Maniacs,7.2,38.0,TV Series,Male,Competition
+218,ABC,The Were-Doo of Doo Manor,7.2,40.0,TV Series,Male,Treasure
+219,ABC,The Ghost of Mrs. Shusham,6.6,37.0,TV Series (segmented),Female,Theft
+220,ABC,Mayhem of the Moving Mollusk,7.2,32.0,TV Series,Male,Competition
+221,Cartoon Network,Bravo Dooby-Doo,8.4,148.0,Crossover,Male,Trespassing
+222,Cartoon Network,The Scooby-Doo Project,7.4,390.0,TV Series,Male,Entertainment
+223,Warner Home Video,Scooby-Doo and the Alien Invaders,6.9,5625.0,Movie,Male,Natural Resource
+224,Warner Home Video,Scooby-Doo and the Cyber Chase,7.0,6632.0,Movie,Male,Competition
+225,Cartoon Network,Night of the Living Doo,7.2,256.0,TV Series,Male,Competition
+226,Adult Swim,Shaggy Busted,8.1,133.0,Crossover,Male,Competition
+227,The WB,There's No Creature Like Snow Creature,7.5,176.0,TV Series,Male,Competition
+228,The WB,3-D Struction,7.4,150.0,TV Series,Male,Natural Resource
+229,The WB,Space Ape and the Cape,7.6,151.0,TV Series,Male,Competition
+230,The WB,Big Scare in the Big Easy,7.7,142.0,TV Series,Male,Competition
+231,The WB,"It's Mean, It's Green, It's the Mystery Machine",7.6,144.0,TV Series,Female,Competition
+232,The WB,Riva Ras Regas,7.5,125.0,TV Series,Male,Competition
+233,The WB,Roller Ghoster Ride,7.7,133.0,TV Series,Male,Competition
+234,The WB,"Safari, So Goodie!",7.1,130.0,TV Series,Male,Smuggling
+235,The WB,She Sees Sea Monsters by the Sea Shore,7.1,122.0,TV Series,Female,Preservation
+236,The WB,A Scooby-Doo! Christmas,7.5,137.0,TV Series,Male,Treasure
+237,The WB,Lights! Camera! Mayhem!,7.5,115.0,TV Series,Male,Competition
+238,The WB,Pompii and Circumstance,7.1,110.0,TV Series,Male,Competition
+239,Warner Home Video,Scooby-Doo! and the Legend of the Vampire,6.6,4180.0,Movie,Male,Competition
+240,The WB,The Unnatural,7.3,110.0,TV Series,Male,Competition
+241,The WB,Big Appetite in Little Tokyo,7.2,112.0,TV Series,Male,Competition
+242,The WB,The Fast and the Wormious,7.4,104.0,TV Series,Male,Competition
+243,Warner Home Video,Scooby-Doo! and the Monster of Mexico,6.5,3462.0,Movie,Male,Competition
+244,The WB,The Vampire Strikes Back,7.4,105.0,TV Series,Male,Competition
+245,The WB,A Scooby-Doo Halloween,7.6,129.0,TV Series,Male,Competition
+246,The WB,Homeward Hound,7.2,97.0,TV Series,Male,Competition
+247,The WB,The San Franpsycho,7.3,103.0,TV Series,Male,Competition
+248,The WB,Simple Plan and the Invisible Madman,7.5,113.0,TV Series,Male,Competition
+249,The WB,Recipe for Disaster,7.5,109.0,TV Series,Male,Competition
+250,The WB,Large Dragon at Large,7.5,94.0,TV Series,Male,Treasure
+251,The WB,Uncle Scooby and Antarctica,7.4,99.0,TV Series,Male,Preservation
+252,The WB,"New Mexico, Old Monster",7.2,96.0,TV Series,Male,Preservation
+253,Warner Bros. Picture,Scooby-Doo 2: Monsters Unleashed,5.1,50847.0,Movie (Theatrical),Male,Competition
+254,The WB,It's All Greek to Scooby,7.4,91.0,TV Series,Male,Treasure
+255,Warner Home Video,Scooby-Doo! and the Loch Ness Monster,6.7,4108.0,Movie,Female,Competition
+256,The WB,Fright House of a Lighthouse,8.0,128.0,TV Series,Male,Competition
+257,The WB,"Go West, Young Scoob",7.2,102.0,TV Series,Male,Competition
+258,Warner Home Video,"Aloha, Scooby-Doo!",6.4,3696.0,Movie,Male,Competition
+259,The WB,Wrestle Maniacs,7.4,90.0,TV Series,Male,Competition
+260,The WB,Ready to Scare,7.5,89.0,TV Series,Male,Competition
+261,The WB,Farmed & Dangerous,7.3,101.0,TV Series,Male,Competition
+262,The WB,Diamonds Are a Ghoul's Best Friend,7.0,96.0,TV Series,Male,Theft
+263,The WB,A Terrifying Round with a Menacing Metallic Clown,7.6,105.0,TV Series,Male,Competition
+264,The WB,Camp Comeoniwannascareya,7.5,100.0,TV Series,Male,Preservation
+265,The WB,Block-Long Hong Kong Terror,7.4,88.0,TV Series,Male,Competition
+266,The WB,"Gentlemen, Start Your Monsters!",7.3,87.0,TV Series,Male,Competition
+267,The WB,Gold Paw,7.4,84.0,TV Series,Male,Competition
+268,The WB,Reef Grief!,7.5,92.0,TV Series,Male,Competition
+269,Cartoon Network,E-Scream,7.4,91.0,TV Series,Male,Simulation
+270,The CW,Shags to Riches,6.1,29.0,TV Series,Male,Theft
+271,The CW,High Society Scooby,6.0,22.0,TV Series,Male,Conquer
+272,The CW,Party Arty,5.9,19.0,TV Series,Male,Abduction
+273,The CW,Smart House,5.9,17.0,TV Series,Male,Conquer
+274,The CW,Lightning Strikes Twice,5.5,17.0,TV Series,Male,Conquer
+275,The CW,Don't Feed the Animals,5.8,18.0,TV Series,Male,Treasure
+276,The CW,Mysterty of the Missing Mystery Solvers,6.9,17.0,TV Series,Male,Abduction
+277,The CW,Chefs of Steel,5.1,16.0,TV Series,Male,Competition
+278,The CW,Almost Ghosts,6.1,20.0,TV Series,Male,Theft
+279,The CW,Pole to Pole,6.1,14.0,TV Series,Male,Conquer
+280,The CW,Big Trouble,5.9,17.0,TV Series,Male,Conquer
+281,Cartoon Network,"Chill Out, Scooby-Doo!",6.7,2511.0,Movie,Male,Competition
+282,The CW,Shaggy and Scooby World,5.3,15.0,TV Series,Male,Conquer
+283,The CW,Almost Purr-fect,5.2,16.0,TV Series,Male,Theft
+284,The CW,Inside Job,5.9,18.0,TV Series,Male,Conquer
+285,The CW,Zoinksman,5.5,14.0,TV Series,Male,Conquer
+286,The CW,The Many Faces of Evil,5.4,13.0,TV Series,Male,Conquer
+287,The CW,Crusin' for a Brusin',5.6,11.0,TV Series,Male,Conquer
+288,The CW,There's a Doctor in the House,5.5,11.0,TV Series,Male,Conquer
+289,The CW,Super Scary Movie Night,5.4,11.0,TV Series,Male,Conquer
+290,The CW,Runaway Robi,4.8,9.0,TV Series,Male,Conquer
+291,The CW,Don't Get a Big Head,4.6,9.0,TV Series,Male,Conquer
+292,The CW,Scooby Dudes,6.2,13.0,TV Series,Male,Conquer
+293,The CW,Zoinks the Wonder Dog,5.1,9.0,TV Series,Male,Conquer
+294,The CW,Uncle Albert Alert,5.8,9.0,TV Series,Male,Conquer
+295,Warner Home Video,Scooby-Doo! and the Goblin King,6.4,2285.0,Movie,Male,Conquer
+296,Warner Home Video,Scooby-Doo! and the Samurai Sword,6.5,2182.0,Movie,Male,Conquer
+297,Cartoon Network,Beware the Beast From Below,7.9,337.0,TV Series,Male,Theft
+298,Cartoon Network,The Secret of the Ghost Rig,7.7,267.0,TV Series,Male,Theft
+299,Cartoon Network,Revenge of the Man Crab,7.7,255.0,TV Series,Male,Competition
+300,Cartoon Network,The Song of Mystery,8.0,254.0,TV Series,Male,Competition
+301,Cartoon Network,The Legend of Alice May,8.5,263.0,TV Series,Female,Competition
+302,Cartoon Network,In Fear of the Phantom,8.2,256.0,TV Series,Male,Competition
+303,Cartoon Network,The Grasp of the Gnome,7.8,229.0,TV Series,Male,Competition
+304,Cartoon Network,Battle of the Humungonauts,7.6,221.0,TV Series,Male,Competition
+305,Cartoon Network,Howl of the Fright Hound,8.2,235.0,TV Series,Male,Competition
+306,Cartoon Network,The Secret Serum,8.1,225.0,TV Series,Female,Theft
+307,Cartoon Network,The Shrieking Madness,8.4,246.0,TV Series,Male,Competition
+308,Cartoon Network,When the Cicada Calls,8.0,224.0,TV Series,Male,Preservation
+309,Cartoon Network,Mystery Solvers Club State Finals,8.2,254.0,TV Series,Male,Imagination
+310,Cartoon Network,The Wild Brood,7.7,221.0,TV Series,Male,Competition
+311,Cartoon Network,Where Walks Aphrodite,8.2,228.0,TV Series,Female,Competition
+312,Cartoon Network,Escape from Mystery Manor,8.8,250.0,TV Series,Male,Preservation
+313,Cartoon Network,The Dragon's Secret,8.2,211.0,TV Series,Male,Theft
+314,Cartoon Network,Nightfright,8.5,227.0,TV Series,Male,Competition
+315,Cartoon Network,The Siren's Song,8.1,203.0,TV Series,Male,Natural Resource
+316,Cartoon Network,Menace of the Manticore,8.2,212.0,TV Series,Male,Competition
+317,Cartoon Network,Attack of the Headless Horror,8.1,196.0,TV Series,Male,Competition
+318,Cartoon Network,A Haunting in Crystal Cove,8.6,211.0,TV Series,Male,Theft
+319,Cartoon Network,Dead Justice,8.2,194.0,TV Series,Male,Competition
+320,Cartoon Network,Pawn of Shadows,8.8,212.0,TV Series,Female,Theft
+321,Cartoon Network,All Fear the Freak,9.2,272.0,TV Series,Male,Theft
+322,Warner Home Video,Scooby-Doo! Legend of the Phantosaur,6.8,1899.0,Movie,Male,Natural Resource
+323,Warner Home Video,Scooby-Doo! Music of the Vampire,6.5,1573.0,Movie,Male,Competition
+324,Warner Home Video,Scooby-Doo! Spooky Games,6.9,195.0,TV Series,Male,Competition
+325,Cartoon Network,The Night the Clown Cried II - Tears of Doom,8.4,197.0,TV Series,Male,Abduction
+326,Cartoon Network,Web of the Dreamweaver!,8.2,192.0,TV Series,Male,Competition
+327,Cartoon Network,The Hodag of Horror,8.4,188.0,TV Series,Male,Theft
+328,Cartoon Network,Art of Darkness,7.7,177.0,TV Series,Male,Competition
+329,Cartoon Network,The Gathering Gloom,8.2,172.0,TV Series,Male,Natural Resource
+330,Cartoon Network,Night on Haunted Mountain,8.3,183.0,TV Series,Female,Treasure
+331,Cartoon Network,Grrim Judgment,8.3,176.0,TV Series,Male,Competition
+332,Cartoon Network,Night Terrors,9.1,202.0,TV Series,Male,Competition
+333,Cartoon Network,Scarebear,8.2,169.0,TV Series,Male,Preservation
+334,Cartoon Network,Wrath of the Krampus,8.9,207.0,TV Series,Male,Theft
+335,Cartoon Network,Heart of Evil,7.6,174.0,TV Series,Male,Theft
+336,Cartoon Network,Theater of Doom,8.6,180.0,TV Series,Male,Theft
+337,Warner Home Video,Big Top Scooby-Doo!,6.9,1442.0,Movie,Male,Theft
+338,Warner Home Video,Scooby-Doo! Haunted Holidays,7.0,392.0,TV Series,Male,Competition
+339,Warner Home Video,Scooby-Doo! Mask of the Blue Falcon,6.8,1485.0,Movie,Male,Competition
+340,Cartoon Network,Dance of the Undead,8.0,180.0,TV Series,Male,Competition
+341,Cartoon Network,The Devouring,7.8,166.0,TV Series,Male,Competition
+342,Cartoon Network,Stand and Deliver,8.3,171.0,TV Series,Male,Competition
+343,Cartoon Network,Nightmare in Red,8.9,187.0,TV Series,Male,Preservation
+344,Cartoon Network,Dark Night of Hunters,8.4,165.0,TV Series,Female,Competition
+345,Cartoon Network,Gates of Gloom,8.7,169.0,TV Series,Male,Treasure
+346,Cartoon Network,Through the Curtain,9.0,184.0,TV Series,Male,Conquer
+347,Cartoon Network,Come Undone,9.3,260.0,TV Series,Male,Conquer
+348,Warner Home Video,Scooby-Doo Adventure: The Mystery Map!,5.1,294.0,Movie,Male,Treasure
+349,Warner Home Video,Scooby-Doo! Stage Fright,7.1,1380.0,Movie,Male,Theft
+350,Warner Home Video,Scooby-Doo! and the Spooky Scarecrow,7.3,403.0,TV Series,Male,Theft
+351,Warner Home Video,Scooby-Doo! Mecha Mutt Menace,6.5,242.0,TV Series,Male,Competition
+352,Warner Home Video,Scooby-Doo! Wrestlemania Mystery,6.3,2825.0,Movie,Male,Competition
+353,Warner Home Video,Scooby-Doo! Ghastly Goals!,6.6,216.0,TV Series,Male,Theft
+354,Warner Home Video,Scooby-Doo! Frankencreepy,6.7,1541.0,Movie,Male,Competition
+355,Warner Home Video,Scooby-Doo! Moon Monster Madness,6.5,1269.0,Movie,Male,Competition
+356,Warner Home Video,Scooby-Doo! and the Beach Beastie,7.1,188.0,TV Series,Male,Theft
+357,Cartoon Network,Mystery 101,7.9,122.0,TV Series,Male,Competition
+358,Cartoon Network,Game of Chicken,7.2,102.0,TV Series,Male,Treasure
+359,Cartoon Network,All Pawns on Deck,7.4,101.0,TV Series,Male,Treasure
+360,Cartoon Network,Poodle Justice,7.3,85.0,TV Series,Male,Competition
+361,Cartoon Network,Grand Scam,7.3,78.0,TV Series,Male,Competition
+362,Cartoon Network,Trading Chase,7.6,80.0,TV Series,Male,Theft
+363,Cartoon Network,"Be Quiet, Scooby-Doo!",7.5,84.0,TV Series,Male,Competition
+364,Cartoon Network,Party Like It's 1899,8.2,88.0,TV Series,Male,Theft
+365,Cartoon Network,Screama Donna,7.4,72.0,TV Series,Female,Competition
+366,Cartoon Network,Kitchen Frightmare,7.5,75.0,TV Series,Male,Competition
+367,Cartoon Network,"Me, Myself, and A.I.",7.5,72.0,TV Series,Male,Competition
+368,Cartoon Network,Area 51 Adjacent,7.4,71.0,TV Series,Male,Competition
+369,Cartoon Network,"Where There's a Will, There's a Wraith",7.5,81.0,TV Series,Male,Inheritance
+370,Cartoon Network,Scooby-Doo! Knight Time Terror,6.6,288.0,TV Series,Male,Treasure
+371,Cartoon Network,Scary Christmas,7.4,75.0,TV Series,Male,Theft
+372,Cartoon Network,"If You Can't Scooby-Doo the Time,Don't Scooby-Doo the Crime",7.7,72.0,TV Series,Male,Theft
+373,Cartoon Network,Gremlin on a Plane,7.8,66.0,TV Series,Male,Competition
+374,Cartoon Network,Sorcerer Snacks Scare,7.9,67.0,TV Series,Male,Competition
+375,Cartoon Network,Saga of the Swamp Beast,8.2,67.0,TV Series,Male,Theft
+376,Cartoon Network,"Be Cold, Scooby-Doo!",7.5,63.0,TV Series,Male,Preservation
+377,Warner Home Video,LEGO Scooby-Doo! Haunted Hollywood,5.9,1144.0,Movie,Male,Competition
+378,Cartoon Network,Giant Problems,7.4,58.0,TV Series,Male,Competition
+379,Boomerang,Eating Crow,7.4,54.0,TV Series,Male,Natural Resource
+380,Warner Home Video,Scooby-Doo! and WWE: Curse of the Speed Demon,6.2,1179.0,Movie,Male,Competition
+381,Warner Home Video,Scooby-Doo! Shaggy's Showdown,6.8,1120.0,Movie,Male,Theft
+382,Boomerang,I Scooby Dooby Do,7.2,58.0,TV Series,Female,Competition
+383,Boomerang,El Bandito,7.6,52.0,TV Series,Male,Treasure
+384,Boomerang,Into the Mouth Madcap,7.2,50.0,TV Series,Male,Competition
+385,Boomerang,The Norse Case Scenario,7.3,48.0,TV Series,Male,Natural Resource
+386,Boomerang,The People vs. Fred Jones,7.7,50.0,TV Series,Male,Theft
+387,Boomerang,Some Fred Time,8.2,53.0,TV Series,Male,Competition
+388,Boomerang,There Wolf,7.5,40.0,TV Series,Male,Theft
+389,Boomerang,Renn Scare,7.4,40.0,TV Series,Male,Competition
+390,Boomerang,How to Train Your Coward,7.6,42.0,TV Series,Male,Theft
+391,Boomerang,Worst in Show,7.1,38.0,TV Series,Male,Competition
+392,Boomerang,The Curse of Kaniaku,7.5,39.0,TV Series,Male,Competition
+393,Boomerang,Vote Velma,6.6,40.0,TV Series,Male,Competition
+394,Boomerang,In Space,8.0,44.0,TV Series,Male,Natural Resource
+395,Boomerang,Doo Not Distrub,7.9,50.0,TV Series,Female,Competition
+396,Boomerang,Silver Scream,7.4,38.0,TV Series,Male,Competition
+397,Boomerang,Fright of Hand,7.2,35.0,TV Series,Male,Competition
+398,Boomerang,Greece in the World,6.7,35.0,TV Series,Female,Competition
+399,Cartoon Network,Batman: The Brave and the Bold: Bat-Mite Presents: Batman's Strangest Cases!,6.6,1698.0,Movie,Male,Conquer
+400,Boomerang,American Goth,7.1,41.0,TV Series,Male,Competition
+401,Boomerang,Omelettes Are Forever,7.2,31.0,TV Series,Male,Competition
+402,Boomerang,Ghost in the Mystery Machine,7.4,36.0,TV Series,Female,Competition
+403,Boomerang,Naughty or Ice,7.4,38.0,TV Series,Male,Theft
+404,Boomerang,Night of the Upsetting Shorts,7.3,39.0,TV Series,Male,Competition
+405,Boomerang,Junkyard Dogs,6.9,37.0,TV Series,Male,Theft
+406,Boomerang,Protein Titans 2,6.7,33.0,TV Series,Male,Competition
+407,Boomerang,World of Witchcraft,6.9,33.0,TV Series,Male,Theft
+408,Boomerang,Professor Huh? Part 6 3/4,7.9,36.0,TV Series,Male,Competition
+409,Boomerang,Pizza O'Possumm's,6.8,31.0,TV Series,Male,Competition
+410,Boomerang,The Curse of Half-Beard's Booty,6.8,31.0,TV Series,Male,Treasure
+411,The CW,Scoobynatural,9.6,6929.0,Crossover,Male,Competition
+412,Warner Home Video,Scooby-Doo! and the Gourmet Ghost,7.3,825.0,Movie,Male,Competition
+413,Warner Home Video,Scooby-Doo! and the Curse of the 13th Ghost,6.5,1182.0,Movie,Male,Treasure
+414,Boomerang,Revenge of the Swamp Monster,7.0,126.0,TV Series,Male,Competition
+415,Boomerang,A Mystery Solving Gang Divided,7.9,93.0,TV Series,Male,Treasure
+416,Boomerang,Peebles' Pet Show of Terrible Terrors!,7.9,79.0,TV Series,Male,Competition
+417,Boomerang,"Elementary, My Dear Shaggy!",8.1,78.0,TV Series,Male,Theft
+418,Boomerang,Ollie Ollie In-Come Free!,7.3,84.0,TV Series,Male,Theft
+419,Boomerang,The Scooby of a Thousand Faces!,8.1,74.0,TV Series,Male,Treasure
+420,Boomerang,The Cursed Cabinet of Professor Madds Markson,8.3,70.0,TV Series,Male,Entertainment
+421,Boomerang,When Urkel-Bots Go Bad!,6.5,74.0,TV Series,Male,Natural Resource
+422,Boomerang,The Fastest Food Fiend!,7.5,52.0,TV Series,Male,Competition
+423,Boomerang,Attack of the Weird Al-Osaurus!,7.5,61.0,TV Series,Male,Natural Resource
+424,Boomerang,"Now You Sia, Now You Don't!",7.4,59.0,TV Series,Female,Theft
+425,Boomerang,Quit Clowning!,7.4,47.0,TV Series,Male,Competition
+426,Boomerang,"What a Night, for a Dark Knight",8.7,84.0,TV Series,Male,Theft
+427,Cartoon Network,Cartoon Feud,6.4,38.0,Crossover,Male,Competition
+428,Warner Bros. Picture,SCOOB!,5.7,20226.0,Movie (Theatrical),Male,Treasure
+429,Boomerang,The Nightmare Ghost of Psychic U!,8.1,38.0,TV Series,Male,Inheritance
+430,Boomerang,"The Sword, the Fox and the Scooby-Doo!",8.8,35.0,TV Series,Male,Theft
+431,Boomerang,Hollywood Knights!,8.1,25.0,TV Series,Male,Inheritance
+432,Boomerang,The New York Underground!,7.8,27.0,TV Series,Male,Treasure
+433,Boomerang,Fear the Fire Beast!,7.7,23.0,TV Series,Male,Competition
+434,Boomerang,Too Many Dummies!,8.2,28.0,TV Series,Male,Competition
+435,Boomerang,Dance Matron of Mayhem,7.6,22.0,TV Series,Female,Competition
+436,Boomerang,The Wedding Witch of Wainsly Hall!,8.6,19.0,TV Series,Female,Theft
+437,Boomerang,A Run Cycle Through Time!,7.9,21.0,TV Series,Male,Simulation
+438,Boomerang,I Put a Hex on You!,8.4,25.0,TV Series,Female,Competition
+439,Boomerang,The High School Wolfman's Musical Lament!,7.6,27.0,TV Series,Male,Competition
+440,Boomerang,Space Station Scooby,8.2,24.0,TV Series,Male,Theft
+441,Warner Home Video,"Happy Halloween, Scooby-Doo!",6.3,978.0,Movie,Male,Natural Resource
